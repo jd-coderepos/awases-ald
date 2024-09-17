@@ -1,0 +1,42 @@
+[
+  {
+    "process_parameters": {
+      "reactants": [
+        "List of reactants used"
+      ],
+      "temperature_range": "Range of temperatures used for the deposition process",
+      "pressure_range": "Range of pressures used for the deposition process"
+    },
+    "film_properties": {
+      "material": "Chemical composition of the deposited film",
+      "thickness_control": "Methods and results of thickness control",
+      "uniformity": "Uniformity of the film across the substrate",
+      "conformality": "Conformality of the film on 3D structures",
+      "film_thickness": "Thickness of the deposited film",
+      "film_density": "Density of the deposited film",
+      "surface_roughness": "Surface roughness of the deposited film",
+      "refractive_index": "Refractive index of the deposited film"
+    },
+    "process_characteristics": {
+      "self_limiting_behavior": "Evidence of self-limiting behavior in the ALD process",
+      "nucleation_behavior": "Description of nucleation behavior observed",
+      "growth_per_cycle": "Growth per cycle observed in the process"
+    },
+    "safety": "Safety considerations for the process and materials",
+    "stability": "Stability of the deposited films over time",
+    "reproducibility": "Reproducibility of the film thickness and properties",
+    "precursor_consumption": "Efficiency and consumption rate of precursors",
+    "device_performance": "Performance of the ALD films in practical devices",
+    "extra_properties": {
+      "Additional property 1": "Value of additional property 1",
+      "Additional property 2": "Value of additional property 2",
+      "...": "..."
+    },
+    "presence_checks": {
+      "property 1": "Yes if property 1 is investigated, otherwise no",
+      "property 2": "Yes if property 2 is investigated, otherwise no",
+      "...": "..."
+    }
+  }
+]
+
