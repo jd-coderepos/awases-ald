@@ -8,10 +8,12 @@ This repository develops AI-ready databases by extracting and integrating knowle
 
 The workflow consists of two primary steps, each designed to handle specific aspects of data integration and knowledge extraction:
 
-* [Step 1: Bulk Import and Metadata Resolution]((https://github.com/jd-coderepos/awases-ald/tree/main/step%201))
+* [Step 1: Bulk Import and Metadata Resolution](https://github.com/jd-coderepos/awases-ald/tree/main/step%201)
+
 Import the collection of papers from the ALD database with available full text. Metadata from these papers is automatically fetched and added via Crossref mechanisms within the ORKG.
 
-* [Step 2: Knowledge Extraction and Integration]((https://github.com/jd-coderepos/awases-ald/tree/main/step%202))
+* [Step 2: Knowledge Extraction and Integration](https://github.com/jd-coderepos/awases-ald/tree/main/step%202)
+
 Use OpenAI's GPT models (adaptable to other LLMs) to extract detailed properties related to ALD processes from the full texts. The extracted data is then structured and added to the ALD papers already present in the ORKG ([https://orkg.org/](https://orkg.org/)). 
 
 ### Objectives
