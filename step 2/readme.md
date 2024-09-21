@@ -64,17 +64,18 @@ This section showcases the tangible results and the accessible format of the con
 
 ### Featured ORKG Papers and Comparisons
 
-1. **Sample ORKG Paper**
+1. **Sample ORKG Paper**    
    View an example of an imported ORKG paper, titled "Atomic Layer Deposition of CsI and CsPbI3", which includes structured ALD process descriptions. This paper features contributions addressing the materials CsI and CsPbI3, enriching the repository with detailed, actionable data:
    - CsI Contribution: [https://orkg.org/paper/R732976/R739356](https://orkg.org/paper/R732976/R739356)
    - CsPbI3 Contribution: [https://orkg.org/paper/R732976/R739360](https://orkg.org/paper/R732976/R739360)
 
-2. **ORKG Comparison Overview**
-   Explore a comparative overview of 167 contributions on ALD processes. This comparison provides a structured summary, facilitating a quick review of research findings and methodologies:
+2. **ORKG Comparison Overview**     
+   Explore a comparative overview of 167 contributions on ALD processes. This comparison provides a structured summary, facilitating a quick review of research findings and methodologies. The contributions in the comparison are a subsample of the data imported in step 2 elicited in the main processing steps.
    - View Comparison: [https://orkg.org/comparison/R739481](https://orkg.org/comparison/R739481)
 
 ### Utilizing Structured Contributions
 
-After the structured data are imported, users can navigate through the ORKG platform to access papers or comparisons, providing a structured overview of research on ALD processes. This integration supports enhanced discovery and research analytics capabilities, promoting a deeper understanding and further research in ALD technology.
+After the structured data are imported, users can navigate through the ORKG platform to access papers or comparisons, providing a structured overview of research on ALD processes. Specifically the relevant papers can be found in our AWASES project observatory linked [here](https://orkg.org/observatory/AIAware_Pathways_to_Sustainable_Semiconductor_Process_and_Manufacturing_Technologies). This integration supports enhanced discovery and research analytics capabilities, promoting a deeper understanding and further research in ALD technology.
+
 
 **Note:** For those new to importing data into the ORKG, we recommend starting with our test environments at https://incubating.orkg.org/ or https://sandbox.orkg.org/. Conduct extensive tests in these environments before using the live system at https://orkg.org/ for finalized workflows. For experimentation and troubleshooting, please use our test systems.
