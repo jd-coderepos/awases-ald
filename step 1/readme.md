@@ -35,3 +35,5 @@ Using the ORKG CSV import feature, this process manages the bulk addition of pap
    # Input: Path to the output file from the previous step, e.g., 'data/2-filtered-data.csv'
    # Output: Path to your output file for storing the formatted and deduplicated fiel for ORKG csv import, e.g., 'data/3-orkg-csv-papers-import.csv'
 	```
+	
+**Note:** For those new to importing data into the ORKG, we recommend starting with our test environments at https://incubating.orkg.org/ or https://sandbox.orkg.org/. Feel free to conduct extensive tests here. Use the live system at https://orkg.org/ only for finalized workflows. For experimentation and troubleshooting, please stick to our test systems.
