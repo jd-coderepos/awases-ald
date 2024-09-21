@@ -1,39 +1,37 @@
 ## Bulk Import Papers and their Metadata
 
-This repository contains [scripts](https://github.com/jd-coderepos/awases-ald-data/tree/main/step%201/scripts) and [data](https://github.com/jd-coderepos/awases-ald-data/tree/main/step%201/data) used to bulk add papers to the Open Research Knowledge Graph (ORKG) using the [CSV import feature](https://orkg.org/csv-import).
+This repository contains [scripts](https://github.com/jd-coderepos/awases-ald-data/tree/main/step%201/scripts) and [data](https://github.com/jd-coderepos/awases-ald-data/tree/main/step%201/data) for bulk adding papers to the Open Research Knowledge Graph (ORKG) using the [ORKG's CSV import feature](https://orkg.org/csv-import).
 
 ### Overview
 
-The primary function of this repository is to facilitate the addition of academic papers to the ORKG by DOI, leveraging the ORKG's CSV import functionality. This allows for the bulk addition of papers along with the automatic fetching of their metadata.
+The main purpose of this repository is to streamline the addition of academic papers to the ORKG by DOI, utilizing the ORKG's CSV import functionality. This process enables the bulk addition of papers and the automatic retrieval of their associated metadata.
 
 ### Workflow
 
 **Step 1: Adding Papers to the ORKG**
 
-Papers are added to the ORKG database by DOI, making use of the ORKG CSV import capability to manage bulk additions and metadata acquisition. This process is supported by scripts that filter and prepare data for import.
+Using the ORKG CSV import feature, this process manages the bulk addition of papers and facilitates the acquisition of metadata. It is supported by scripts designed to filter and prepare the data necessary for import.
 
 ### Processing Steps
 
 1. **Filter Papers**  
-   [`scripts/1-filter-papers.py`](https://github.com/jd-coderepos/awases-ald/blob/main/step%201/scripts/1-filter-papers.py) - This script processes a raw data file containing a list of ALD papers to produce an output file containing only the ALD paper rows that have a full-text column value.
+   [`scripts/1-filter-papers.py`](https://github.com/jd-coderepos/awases-ald/blob/main/step%201/scripts/1-filter-papers.py) - This script filters a raw data file to retain only those ALD papers that include a full-text column. The output is a streamlined list ready for further processing.
 
    **Usage Example:**
    ```bash
    python scripts/1-filter-papers.py
-   # User is prompted to enter the input and output files. Examples are provided in the [data repo](https://github.com/jd-coderepos/awases-ald/blob/main/step%201/data/) for reproducibility.
-   # Input: [data/1-raw-data.csv](https://github.com/jd-coderepos/awases-ald/blob/main/step%201/data/1-raw-data.csv)
-   # Output: [data/2-filtered-data.csv](https://github.com/jd-coderepos/awases-ald/blob/main/step%201/data/2-filtered-data.csv)
+   # User is prompted to enter the input and output files. Examples are provided in the data repository for reproducibility.
+   # Input: Path to your raw data file listing ALD papers with DOIs, e.g., 'data/1-raw-data.csv'
+   # Output: Path to your output file for storing filtered ALD papers that have full text, e.g., 'data/2-filtered-data.csv'
 	```
 
-2. [`scripts/2-create-orkg-csv-import-file.py`](https://github.com/jd-coderepos/awases-ald-data/blob/main/step%201/scripts/2-create-orkg-csv-import-file.py): This script takes the output file from the previous step and converts it into a format suitable for import into the ORKG. It also removes any duplicate papers if found.
+2. **Create ORKG CSV Import File**  
+   [`scripts/2-create-orkg-csv-import-file.py`](https://github.com/jd-coderepos/awases-ald-data/blob/main/step%201/scripts/2-create-orkg-csv-import-file.py) - This script converts the filtered paper's data from the previous step into a format suitable for the ORKG import. It also checks and removes any duplicate papers.
 
-``
-Usage example
-
-python scripts/2-create-orkg-csv-import-file.py
-
-The user is prompted to enter the input and output files.
-
-Input: [data/2-filtered-data.csv](https://github.com/jd-coderepos/awases-ald/blob/main/step%201/data/2-filtered-data.csv)
-Output: [data/3-orkg-csv-papers-import.csv](https://github.com/jd-coderepos/awases-ald/blob/main/step%201/data/3-orkg-csv-papers-import.csv)
-``
+   **Usage Example:**
+   ```bash
+   python scripts/2-create-orkg-csv-import-file.py
+   # User is prompted to enter the input and output files. Examples are provided in the data repository for reproducibility.
+   # Input: Path to the output file from the previous step, e.g., 'data/2-filtered-data.csv'
+   # Output: Path to your output file for storing the formatted and deduplicated fiel for ORKG csv import, e.g., 'data/3-orkg-csv-papers-import.csv'
+	```
