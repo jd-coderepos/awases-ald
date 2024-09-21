@@ -14,7 +14,7 @@ This step focuses on extracting detailed ALD process knowledge from the full tex
 
 ### Main Processing Steps
 
-1. **Extract ALD Structured Knowledge with a GPT LLM**
+1. **Extract ALD Structured Knowledge with a GPT LLM**   
    [`scripts/3-gpt-assistant-annotate.py`](https://github.com/jd-coderepos/awases-ald/blob/main/step%202/scripts/3-gpt-assistant-annotate.py) - This script processes an input file of papers, extracting ALD process information. The knowledge extraction schema defines the detailed properties of interest, and the output is formatted in JSON.
 
    **Usage Example:**
@@ -30,7 +30,7 @@ This step focuses on extracting detailed ALD process knowledge from the full tex
    # Output2: Enter the output file path (e.g., data/6-gpt-annotations.csv) # where the extracted knowledge should be stored.
 	```
 
-2. **Upload Extracted Structured Knowledge as ALD Paper Contributions to ORKG**
+2. **Upload Extracted Structured Knowledge as ALD Paper Contributions to ORKG**   
    [`scripts/4-create-and-upload-orkg-contributions.py`](https://github.com/jd-coderepos/awases-ald/blob/main/step%202/scripts/4-create-and-upload-orkg-contributions.py) - This script takes the extracted data from the previous step and defines an import workflow using the [ORKG Templates component](https://orkg.readthedocs.io/en/latest/client/templates.html). It primarily involves instantiating the ALD process profile ORKG template ([https://orkg.org/template/R733029](https://orkg.org/template/R733029)) with the extracted structured information according to a schema matching the template. Each structured information unit is then added as contributions to the relevant paper on the ORKG. Notably, a paper describing ALD processes for different combinations of materials and reactants can have multiple contributions, with structured descriptions for each unique material and reactant combination.
 
    **Usage Example:**
@@ -49,10 +49,10 @@ This step focuses on extracting detailed ALD process knowledge from the full tex
 
 ### Supplementary Processing Steps
 
-1. **Create Paper Info File from ORKG** 
+1. **Create Paper Info File from ORKG**    
    [`scripts/1-create-paper-info-file-from-orkg.py`](https://github.com/jd-coderepos/awases-ald-data/blob/main/step%202/scripts/1-create-paper-info-file-from-orkg.py) - Downloads ORKG paper resource IDs and paper title metadata, linking them to the original raw data.
 
-2. Add Material and Reactants as ORKG Resources 
+2. **Add Material and Reactants as ORKG Resources**     
    [`scripts/2-add-material-and-reactants-to-orkg.py`](https://github.com/jd-coderepos/awases-ald-data/blob/main/step%202/scripts/2-add-material-and-reactants-to-orkg.py) - This script reads the expert-curated material and reactants annotations in the [atomiclimits ALD database](https://www.atomiclimits.com/alddatabase/) (e.g., step 1/data/2-filtered-data.csv) and creates unique resources in the ORKG for them. The output of this script are the files [5-orkg-added-reactants.csv](https://github.com/jd-coderepos/awases-ald-data/blob/main/step%202/data/5-orkg-added-reactants.csv) and [5-orkg-added-materials.csv](https://github.com/jd-coderepos/awases-ald-data/blob/main/step%202/data/5-orkg-added-materials.csv).
 
 
