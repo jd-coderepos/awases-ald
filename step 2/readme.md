@@ -6,11 +6,13 @@ This repository is structured similarly to Step 1.
 
 ### Overview
 
-This step focuses on extracting detailed ALD process knowledge from the full texts of the imported papers and integrating this information into the ORKG. This creates a rich, structured database that enhances the utility of the ORKG for academic and industrial research.
+The main purpose of this repository is to streamline the process on extracting detailed ALD process knowledge from the full texts of the imported papers and integrating this information into the ORKG. This creates a rich, structured database that enhances the utility of the ORKG for academic and industrial research.
 
 ### Workflow
 
 **Step 2: Adding Contributions to ORKG Papers**
+
+Using a GPT LLM, the process extracts ALD-process-relevant structured knowledge from papers. The extraction targets are specified in a [preidentified schema](https://github.com/jd-coderepos/awases-ald/blob/main/step%202/data/ald-schema_ver4.json). Finally, using the ORKG python package all the structured knowledge are added as contributions to the respective ORKG papers. 
 
 ### Main Processing Steps
 
