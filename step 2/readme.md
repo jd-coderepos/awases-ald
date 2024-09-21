@@ -69,7 +69,7 @@ This section showcases the tangible results and the accessible format of the con
    - CsI Contribution: [https://orkg.org/paper/R732976/R739356](https://orkg.org/paper/R732976/R739356)
    - CsPbI3 Contribution: [https://orkg.org/paper/R732976/R739360](https://orkg.org/paper/R732976/R739360)
 
-2. **ORKG Comparison Overview**     
+2. **ORKG Comparison as a ALD Process Research Overview**     
    Explore a comparative overview of 167 contributions on ALD processes. This comparison provides a structured summary, facilitating a quick review of research findings and methodologies. The contributions in the comparison are a subsample of the data imported in step 2 elicited in the main processing steps.
    - View Comparison: [https://orkg.org/comparison/R739481](https://orkg.org/comparison/R739481)
 
