@@ -6,7 +6,7 @@ The advancement of AI-based process development and material synthesis requires 
 
 ### How-to
 
-This repository presents a data science-oriented workflow that utilizes expert-curated knowledge on materials and reactants from the ALD database. It includes an easy-to-reuse 2-step knowledge extraction pipeline that uses Large Language Models (LLMs) to extract knowledge about over 20 properties related to ALD processes from scientific literature. The extracted knowledge is then integrated into the Open Research Knowledge Graph (ORKG) to create an AI-ready database.
+This repository presents a data science-oriented workflow that utilizes expert-curated knowledge on materials and reactants from the ALD database. It includes an easy-to-reuse 2-step knowledge extraction pipeline that showcases the use of Large Language Models (LLMs)--we demonstrate this w.r.t. OpenAI's GPT models, however the approach easily extends to any LLM--to extract knowledge about over 20 properties related to ALD processes from scientific literature. The extracted knowledge is then integrated into the Open Research Knowledge Graph (ORKG, [https://orkg.org/](https://orkg.org/)) to create an AI-ready database.
 
 The 2 steps of the workflow perform the following:
 
@@ -16,7 +16,7 @@ The 2 steps of the workflow perform the following:
 
 ### Acknowledgements
 
-This repo is a demonstration toward the project titled ``Turning Online ALD and ALE Databases Into AI-Ready Tools for Development of New Sustainable Materials and Fabrication Processes'' [1] with collaborating organizations [TU/e](https://www.tue.nl/en/), [L3S](https://www.l3s.de/), and [Warwick](https://warwick.ac.uk/). We acknowledge project funding by [MercK](https://www.merckgroup.com/en) and [Intel](https://www.intel.de/content/www/de/de/homepage.html) coopertations along the funding line ``AI-Aware Pathways to Sustainable Semiconductor Process and Manufacturing Technologies (AWASES)'' [2].
+This repo is a demonstration toward the project titled "Turning Online ALD and ALE Databases Into AI-Ready Tools for Development of New Sustainable Materials and Fabrication Processes" [1] with collaborating organizations [TU/e](https://www.tue.nl/en/), [L3S](https://www.l3s.de/), and [Warwick](https://warwick.ac.uk/). We acknowledge project funding by [MercK](https://www.merckgroup.com/en) and [Intel](https://www.intel.de/content/www/de/de/homepage.html) coopertations along the funding line "AI-Aware Pathways to Sustainable Semiconductor Process and Manufacturing Technologies (AWASES)" [2].
 
 ### References and News
 
