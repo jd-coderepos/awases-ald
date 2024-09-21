@@ -23,8 +23,8 @@ This approach not only standardizes data but also enhances the accessibility of 
 We acknowledge the collaboration and support of:
 
 * [TU/e](https://www.tue.nl/en/)
-* [L3S Research Center]((https://www.l3s.de/))
-* [University of Warwick]((https://warwick.ac.uk/))
+* [L3S Research Center](https://www.l3s.de/)
+* [University of Warwick](https://warwick.ac.uk/)
 * Funding from [MercK](https://www.merckgroup.com/en) and [Intel](https://www.intel.de/content/www/de/de/homepage.html) through the "AI-Aware Pathways to Sustainable Semiconductor Process and Manufacturing Technologies (AWASES)" project.
 
 ### References and Further Reading
