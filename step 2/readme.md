@@ -58,4 +58,15 @@ Using a GPT LLM, the process extracts ALD-process-relevant structured knowledge 
    [`scripts/2-add-material-and-reactants-to-orkg.py`](https://github.com/jd-coderepos/awases-ald-data/blob/main/step%202/scripts/2-add-material-and-reactants-to-orkg.py) - This script reads the expert-curated material and reactants annotations in the [atomiclimits ALD database](https://www.atomiclimits.com/alddatabase/) (e.g., step 1/data/2-filtered-data.csv) and creates unique resources in the ORKG for them. The output of this script are the files [5-orkg-added-reactants.csv](https://github.com/jd-coderepos/awases-ald-data/blob/main/step%202/data/5-orkg-added-reactants.csv) and [5-orkg-added-materials.csv](https://github.com/jd-coderepos/awases-ald-data/blob/main/step%202/data/5-orkg-added-materials.csv).
 
 
+### Result
+
+After importing the structured data, they can be visited on the ORKG as papers or comparisons of multiple papers as a quick structured overview of research on the topic of ALD processes.
+
+1. **Example ORKG Paper**    
+   An example imported ORKG paper titled “Atomic Layer Deposition of CsI and CsPbI3” can be viewed here [https://orkg.org/paper/R732976/](https://orkg.org/paper/R732976/). This paper has two structured ALD process descriptions as contributions, respectively, addressing the materials CsI ([https://orkg.org/paper/R732976/R739356](https://orkg.org/paper/R732976/R739356)) and CsPbI3 ([https://orkg.org/paper/R732976/R739360](https://orkg.org/paper/R732976/R739360)).
+
+2. **ORKG Comparison**   
+   An example ORKG comparison [https://orkg.org/comparison/R739481](https://orkg.org/comparison/R739481) as an overview of 167 contributions on ALD processes. The contributions in the comparison are a subsample of the data imported in step 2 elicited in the main processing steps.
+
+
 **Note:** For those new to importing data into the ORKG, we recommend starting with our test environments at https://incubating.orkg.org/ or https://sandbox.orkg.org/. Feel free to conduct extensive tests here. Use the live system at https://orkg.org/ only for finalized workflows. For experimentation and troubleshooting, please stick to our test systems.
