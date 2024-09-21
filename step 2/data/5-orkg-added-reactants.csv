@@ -1,1066 +1,1066 @@
-Reactant Name,ORKG Resource ID,Status
-Y(CpMe)3,R733190,Processed
-AlMe2OiPr,R733191,Processed
-Pd(hfac)2,R733192,Processed
-Ta(NMe2)3(CMe2Et),R733193,Processed
-In(dmamp)2(OiPr),R733194,Processed
-Ti(CpMe5)(OMe)3,R733195,Processed
-BeMe2,R733196,Processed
-O3 / H2O,R733197,Processed
- CFx,R733198,Processed
-Ar+N2/NH3/H2 plasma,R733199,Processed
-(Me3Si)2Te,R733200,Processed
-Er(MeCp)2(iPrAMD),R733201,Processed
-BEt3,R733202,Processed
-Cu(Ac(SiMe3)2)(hfac),R733203,Processed
-Sr(CpiPr3)2,R733204,Processed
-NH3 + H2O,R733206,Processed
-PbI2,R733207,Processed
-Ge(Î·2 -((NtBu)CHMeCHMe(NtBu))),R733208,Processed
-Na(OtBu),R733209,Processed
-iPrOH,R733210,Processed
-Et2S2,R733211,Processed
-Ta(NtAm)[(NMe2)]3,R733212,Processed
-Sb(NEt2)3,R733213,Processed
-Ni(EtCp)2,R733214,Processed
-H2O + NH3 catalyst,R733215,Processed
-HCOOH,R733216,Processed
-Zn(DMP)2,R733217,Processed
-Fe(N(SiMe3)2)2,R733218,Processed
-La(CpMe4)3,R733219,Processed
-Sc(iPrCp)3,R733220,Processed
-FeCp2,R733221,Processed
-CH3COOH,R733222,Processed
-PO(NH)2(OEt)2,R733223,Processed
-Ta(NtBu)(tBu2pz)3,R733224,Processed
-N2 + NH3 plasma,R733225,Processed
-PO(NH2)(OEt)2 plasma,R733226,Processed
-O3,R733227,Processed
-GeCl2âC4H8O2,R733228,Processed
-Ti(OEt)4,R733229,Processed
-C6H8Fe(CO)3 ,R733230,Processed
+Name,ORKG Resource ID,Status
+H2O photo assisted,R734202,Processed
+CHD,R733654,Processed
+[Î·6:Î·1-(C5H5BNMe2)]Hf(NMe2)3,R733631,Processed
+H2 plasma  ,R733739,Processed
+Zr(NMe2)4,R733477,Processed
+Si2Cl6,R733719,Processed
+Hf(mmp)4,R733751,Processed
+O2 + NH3,R733691,Processed
+Pb(tmod)2,R733748,Processed
+Al(OEt)3,R733565,Processed
+ZrCp2(NMe2)2,R733568,Processed
+Ni(thd)2,R734195,Processed
+Mg,R29445,Processed
+Sb(OEt)3,R733987,Processed
+Zr(CpEt)(NMe2)3,R733624,Processed
 Co(iPrAMD)2,R733231,Processed
-Cu(dki)(vtms),R733232,Processed
-H2 plasma + NH3 plasma,R733233,Processed
-ZrCl4,R733234,Processed
-MeAyTe,R733235,Processed
-Lu(iPrCp)3,R733236,Processed
-H2O||,R733237,Processed
-GeH(nBu)3,R733238,Processed
-Ag(fod)(PEt3),R733239,Processed
-N2H4âHCl,R733240,Processed
-MoH2(iPrCp)2,R733241,Processed
-HgMe2,R733242,Processed
-CCTBA,R733243,Processed
-Electrons,R733244,Processed
-SiH(NMe2)3,R733245,Processed
-TiCp2((iPrN)2C(NHiPr)),R733246,Processed
-Y(CpEt)3,R733247,Processed
-Gd(iPrCp)3,R733248,Processed
-Ar+O2,R733249,Processed
-S2Et2,R733250,Processed
-Al(NiPr2)3,R733251,Processed
-N2O plasma,R733252,Processed
-Mo(CO)6,R733253,Processed
-Y(sBuCp)3,R733254,Processed
-Zr(OiPr)2(dmae)2,R733255,Processed
-VO(acac)2,R733256,Processed
-Zr(Cp2CMe2)Me(OMe),R733257,Processed
-Ce(iPrCp)3,R733258,Processed
-N2 plasma ,R733259,Processed
-Ni(acac)2(TMEDA),R733260,Processed
-Hf(Cp)(NMe2)3,R733261,Processed
-terephthalic acid,R733262,Processed
-In(triaz)3,R733263,Processed
-Ti(Cp)CHT,R733264,Processed
-Au(N(SiMe3)2)(PEt3),R733265,Processed
+Gd(dmb)3,R734086,Processed
+WH2Cp2,R733681,Processed
 Cu(O2C tBu)2,R733266,Processed
-N2+H2 plasma,R733267,Processed
-NH3 + O2 plasma,R733268,Processed
-Ni(Chex)(Cp),R733269,Processed
-Ce(DPDMG)3,R733270,Processed
-InEtMe2,R733271,Processed
-Co(MeiPrCOCNtBu)2,R733272,Processed
-O2 + H2O + H2O2,R733273,Processed
-Pb(dmamp)2,R733274,Processed
-TaF5,R733275,Processed
-Er(thd)3,R733276,Processed
-NH3 + AlMe3,R733277,Processed
-Me2NNH2,R733278,Processed
-Sc(CpMe)3,R733279,Processed
-Sr(CpMe5)2,R733280,Processed
-propanol,R733281,Processed
-Lu(thd)3,R733282,Processed
-Ru(DMBD)(CO)3,R733283,Processed
-H2O / O3,R733284,Processed
-Sn(iPr2fAMD)2,R733285,Processed
-NH3 + H2 plasma,R733286,Processed
-[AlPr(OiPr)6(iPrOH)]2,R733287,Processed
-Si(OEt)3((CH2)3NH2),R733288,Processed
-Eu(thd)3,R733289,Processed
-Pt(DDAP),R733290,Processed
-W(NtBu)2(iPrAMD)2,R733291,Processed
-AlH2(tBuNCH2CH2NMe2),R733292,Processed
-Cu(hfac)2,R733293,Processed
-Ru(MeCp)(pyr),R733294,Processed
-O2 plasma,R733295,Processed
-PO(NH2)(OEt)2,R733296,Processed
-Ca(iPrFMD)2,R733297,Processed
-AlEt3,R733298,Processed
-V(NEtMe)4,R733299,Processed
-Ga(iPr-triaz)3,R733300,Processed
-Se(S2CNMe2)4,R733301,Processed
-Cu(OAc)2,R733302,Processed
-H (hot-wire),R733303,Processed
-H2O plasma,R733304,Processed
-WO2(tBuAMD)2,R733305,Processed
-Hf(Cp2CMe2)Me2,R733306,Processed
-Mn,PWC_MN_MODEL,Processed
-Ca(iPrAMD)2,R733307,Processed
-Fe(CptBu)Cp,R733308,Processed
-NH3 + Et3B,R733309,Processed
-TiCl4,R676174,Processed
-N(SiMe3)(SiHMeNMe2)2,R733310,Processed
-Y(dpm)3,R733311,Processed
+Bi(OC6H13)3,R733484,Processed
+Zr(OtBu)2(dmae)2,R733382,Processed
+ Mn(thd)3,R734159,Processed
 Ho(thd)3,R733312,Processed
-Te(SiMe3)2 + NH3,R733313,Processed
-Fe(hfac)2(TMEDA),R733314,Processed
+HF,R254335,Processed
+Ce(CpiPr)3,R734074,Processed
+HF-pyridine,R733535,Processed
+In(NMe2)Me2,R733661,Processed
+Se2(Si(iPr)2)2,R733425,Processed
+Zr(OiPr)4,R733507,Processed
+Mo(NtBu)2(NMe2)2,R734157,Processed
+Sr(CpiPr3)2,R733204,Processed
+ZrI4,R733575,Processed
+Ta(NtAm)[(NMe2)]3,R733212,Processed
+Ir(CO)3(tBu3Cyp),R733889,Processed
+Tb(thd)3,R733341,Processed
+RuCp2,R734183,Processed
+DHP,R734094,Processed
+Hf(NEtMe)4,R733736,Processed
+AlH2(tBuNCH2CH2NMe2),R733292,Processed
+CoTp2,R734053,Processed
+Zn,R723784,Processed
+Si(OtPe)3OH,R734060,Processed
+Lu(OiPr)3,R733485,Processed
+Si(OEt)3((CH2)3NH2),R733288,Processed
+Hf(CpMe2)(NMe2)3,R734106,Processed
+(Et3 Si)2Se,R734096,Processed
+BBr3,R733530,Processed
+Ce(iPr2AMD)3,R733920,Processed
+CuCl,R733398,Processed
+tBuPH2,R733892,Processed
+Ge(Î·2 -((NtBu)CHMeCHMe(NtBu))),R733208,Processed
+MoO2(thd)2,R733766,Processed
+Mn(EtCp)2,R733679,Processed
+C6H4(OH)2,R733676,Processed
+CH3CHOHCH3,R733464,Processed
+W(CO)(3-hexyne)3,R734139,Processed
+Hf(CpMe)2(OMe)Me,R733812,Processed
+Gd(iPrAMD)3,R734200,Processed
+La[N(SiMe3)2]3,R733785,Processed
+Ce(thd)3phen,R734120,Processed
+N2,R668600,Processed
+[Cu(sBuAMD)]2,R733510,Processed
+Zn(Cppm)2,R733725,Processed
+GaNp3,R733494,Processed
+Er(nBuCp)3,R734045,Processed
+Ge(OMe)4,R733716,Processed
+Ta(NEt2)3NtBu,R734217,Processed
+Sr(iPr3Cp)2,R734097,Processed
+B(OiPr)3,R733939,Processed
+HGeCl3,R733471,Processed
+MoCl4(THD)(THF),R733533,Processed
+HCHO + ethanol,R733508,Processed
+CH3NH2 plasma,R733794,Processed
+LiN(SiMe3)2,R733768,Processed
+CH3COOH,R733222,Processed
+PO4Me3 plasma,R733985,Processed
+BeEt2,R733774,Processed
+Al(NEt2)2(C3H6NMe2),R734024,Processed
+BCl3,R733976,Processed
+Pb(ClO4)2,R733541,Processed
+Hf(dmap)4,R733813,Processed
+La(iPrFMD)3,R734001,Processed
+Bi(dmb)3,R733993,Processed
+Zn(CpnPrMe4)2,R733712,Processed
+Lu(N(SiMe3)2)3,R733882,Processed
+Y(CpBu)3,R733754,Processed
+Si2Cl5H,R733406,Processed
+Bi(OCMe2iPr)3,R733660,Processed
+Y(iPr2AMD)3,R734002,Processed
+Co(bepa)2,R734101,Processed
+Bi(NMeEt)3,R733440,Processed
+PbI2,R733207,Processed
+(Et3Si)3As,R733497,Processed
+Me8Si4Te2,R733381,Processed
+Ti(NEt2)4,R733952,Processed
+La(thd)3,R734088,Processed
+Ni(dmamp)2,R734134,Processed
+In(dpguan)3,R733421,Processed
+TaCl5,R733995,Processed
+W(NtBu)2(NMe2)2,R734176,Processed
+H2O + catalyst,R734168,Processed
+Et2NH,R733990,Processed
+Ag(hfac)(PM3),R733549,Processed
+Ti(Np)4,R733863,Processed
+Ga(Me3,R733957,Processed
+N2H4,R733448,Processed
+O2 plasma,R733295,Processed
+Ge(OEt)4,R733625,Processed
+Ar-P2 plasma,R733746,Processed
+Y(dpm)3,R733311,Processed
+Zn(thd)2,R734026,Processed
+RuCp(CO)2Et,R733645,Processed
+GeH(nBu)3,R733238,Processed
+SbCl3,R733949,Processed
+Zr(NMe2)2{Î·5:Î·1-Cp(CH2)3NMe},R734100,Processed
+Lu[N(SiMe3)2]3,R734123,Processed
+O2+Ar,R734071,Processed
+SnnBu2(CH3COO)2,R733747,Processed
+GaCl3,R734098,Processed
+Pb4O(OtBu)6,R733698,Processed
+SnEt4,R733704,Processed
+Ru(CpEt)(DMOPD),R733544,Processed
+ZrCp2Me(OMe),R733366,Processed
+H2S+Ar Plasma,R733384,Processed
+HgMe2,R733242,Processed
+NH3 + N2 plasma,R733614,Processed
+Ge2H6,R733723,Processed
+B2H6,R734021,Processed
+In(EtCp),R733672,Processed
+H2 + N2 plasma,R734150,Processed
+H,R57503,Processed
+Tm(thd)3,R733749,Processed
+Hf(ONEt2)4,R733576,Processed
+GaI3,R733718,Processed
+Ba(iPr3Cp)2,R733757,Processed
+Bis(trimethylsilyl)sulfide,R733842,Processed
+O2 + H2O + H2O2,R733273,Processed
+Al(OiPr)Me2,R734066,Processed
+Cr(acac)3,R733859,Processed
+Zr(Cp2CMe2)Me(OMe),R733257,Processed
+Zr(dibm)4,R734090,Processed
+Ta(NtBu)(iPrAMD)2(NMe2),R733412,Processed
+Ba(CpnPrMe4)2,R733582,Processed
+ZrCp(NMe2)3,R733821,Processed
+Al2(NMe2)6,R733559,Processed
+GaiBu3,R733486,Processed
+Ti(OMe)4 ,R733869,Processed
+Cu(sBuAMD)2,R733947,Processed
+Sn(NMeEt)4,R733441,Processed
+HCOCOOH,R733838,Processed
+FeCl3,R733629,Processed
+NiCl2(TMPDA),R734162,Processed
+Hf[N(SiMe3)2]2Cl2,R734034,Processed
+Ti(Cp)CHT,R733264,Processed
+Co(CpEt)2,R733571,Processed
+VOCl3,R733832,Processed
+Ti(NEtMe)4,R733875,Processed
+synthetic air,R733665,Processed
+Ti(enno)(NMe2)3,R734084,Processed
+O3 + H2O2,R733898,Processed
+Sn(N(SiMe3)2)2,R733478,Processed
+Nd(thd)3,R733601,Processed
+iPr2Te,R733879,Processed
+Mg(EtCp)2,R734122,Processed
+Lu(thd)3,R733282,Processed
+GeCl2âC4H8O2,R733228,Processed
+Sb(NMe2)3,R733913,Processed
+Ta(NiPr)(NEtMe)3,R733418,Processed
+Hf(CpMe)2(OiPr)Me,R733678,Processed
+C2H4,R733694,Processed
+Ir(CpEt)(CHD),R733966,Processed
+Fe(ipki)2,R734012,Processed
+Ni(tBu2DAD)2,R734107,Processed
+AuCl3,R733742,Processed
+ScCp3,R734188,Processed
+Ta(NCMe2Et)(NMe2)3,R733684,Processed
+Fe(tBuAMD)2,R734005,Processed
+La(tmod)3,R733475,Processed
+Ni(tBuAMD)2,R734184,Processed
+In(acac)3,R733870,Processed
+Hf(BH4)4,R733449,Processed
+In(iPrFMD)3,R733800,Processed
+HCl,R733632,Processed
+NH3 + SiH4 plasma,R734127,Processed
+Mo(tAmylN)2(tAmylNH)2,R733955,Processed
+Zr(NMe2)3Cp,R734063,Processed
+H2O+H2O plasma,R733473,Processed
+Zr(NEtMe)2(guan-NEtMe)2,R733822,Processed
+ZnMe2,R733495,Processed
+Co(AMD)2,R733663,Processed
+Ag(hfac)(PMe3),R733505,Processed
+Ta(NtAm)(NMe2)3,R733408,Processed
+Mo(tBuN)2(StBu)2,R733635,Processed
+Y(iPrCp)2(iPr2AMD),R734062,Processed
+Sn(allyl)4,R733579,Processed
+Sr(CpnPrMe3)2,R733515,Processed
+Mg(CpEt)2,R733950,Processed
+Hf(OtBu)(NEtMe)3,R733562,Processed
+Sm(thd)3,R734047,Processed
+Zr(CpMe)2 Me(OMe),R733439,Processed
+V(NEt2)4,R733492,Processed
+Sb(cyclo-NC2H4)3,R734027,Processed
+In(dmamp)2(OiPr),R733194,Processed
+Hf(NEtMe)2{Î·5:Î·1-Cp(CH2)2NMe},R733933,Processed
+ZnEt2,R733783,Processed
+ZrCl4,R733234,Processed
+Ru(tBuAMD)2(CO)2,R733409,Processed
+Mn(acac)3,R733900,Processed
+BDEAS,R733546,Processed
+Fe(CptBu)2,R733378,Processed
+TaCp(NtBu)(NEt2)2,R734199,Processed
+Zn(acac)2,R733640,Processed
+Me3N:AlH3,R733328,Processed
+MoO2(iPrAMD)2,R733982,Processed
+WCl5,R734082,Processed
+SnBr4,R733619,Processed
+(Et3Si)3Sb,R734191,Processed
+H2O2,R734039,Processed
+Fe(acac)3,R733387,Processed
+Ar-H2 Plasma,R733383,Processed
+O2n,R733342,Processed
+H2O+O2,R734149,Processed
+Gd(MeCp)3,R733646,Processed
+Sc(CpMe)3,R733279,Processed
+Mo(iPrCp)2H2,R733960,Processed
+N2 + H2 plasma,R734208,Processed
+Si(SiH3)4,R733699,Processed
+Bi(mmp)3,R733332,Processed
+Pr(EtCp)3,R733657,Processed
+Y(DPDMG)3,R733597,Processed
+Ba pyrrole,R733411,Processed
+Zr(MeCp)(TMEA),R733927,Processed
+Zn(pmCp)2,R733402,Processed
+HfCp2Cl2,R733673,Processed
+tBuNH2,R734111,Processed
+Si(OtBu)3OH,R733375,Processed
+SiH(NMe2)3,R733245,Processed
+H2O + O3,R733761,Processed
+Ta(NEt2)3(NtBu),R733906,Processed
+Ge(NMe2)2(NHiPr(CH2)2NHiPr),R734169,Processed
+Cr(MetBuCOCNtBu)2,R733999,Processed
+[NdAl(OiPr)6(iPrOH)]2,R733498,Processed
+Hf(NO3)4,R733532,Processed
+Zr(CpMe)2Me2,R733648,Processed
+NbF5,R733884,Processed
+MeCpPtMe3,R734126,Processed
+VO(OiPr)3,R734052,Processed
+NH3 plasma,R734143,Processed
+Co(acac)3,R733873,Processed
+InN(SiMe3)2,R733778,Processed
+(iPrCp)2Mg,R734075,Processed
+TaCl5 Â· SEt2,R733709,Processed
+Controlled desorption,R733983,Processed
+Ba(dpm)2,R733516,Processed
+Si(OEt)4,R733938,Processed
+Co2(CO)8,R734030,Processed
+TiF4,R733637,Processed
+Mn(CpMe)2,R733435,Processed
+Fe(Cp)2,R734080,Processed
+Hf(NMe2)4,R733946,Processed
+RbOtBu,R733523,Processed
+Bi(N(SiMe3)2)3,R733828,Processed
+Et2Te,R733456,Processed
+SiCl3H,R733452,Processed
+Zr(NEtMe)3(guan-NEtMe),R733702,Processed
+2-methyl-3-buten-2-ol,R733969,Processed
+H2 Plasma,R733739,Processed
+GaMe2(OiPr),R734093,Processed
+Ba(CptBu3)2,R734198,Processed
+Electrons,R733244,Processed
+CaTp2,R733476,Processed
+Si(OtBu)4,R733820,Processed
+VO(thd)2,R733520,Processed
+RuO4,R733770,Processed
+WF6,R734048,Processed
+CoCl2(TMEDA),R734186,Processed
+HN[SiMe3]2,R733647,Processed
+FeCp(tBuCp),R734201,Processed
+CO2,R137271,Processed
+GeCl3H,R733616,Processed
+Sn(tbba),R734014,Processed
+Ba(CpMe5)2,R733825,Processed
+Dy(iPrCp)2(iPr2AMD),R733693,Processed
+Ga(CpMe5),R733899,Processed
+Ru(TMM)(CO)3,R733745,Processed
 CH3(CH2)2OH,R733315,Processed
-Dy(thd)3,R733316,Processed
-Sn(Î·2 -((NtBu)CHMeCHMe(NtBu)))2,R733317,Processed
-Pr(mmp)3,R733318,Processed
-PrSH,R733319,Processed
-Se(SnMe3)2,R733320,Processed
-ROH,R733321,Processed
+Ni(acac)2(py)2,R733771,Processed
+Pb(thd)2,R734031,Processed
+CMe3OH,R733558,Processed
+Ti(OiPr)2(NMe2)2,R733706,Processed
+PO(OEt)3,R733897,Processed
+CH3CH2OH,R733724,Processed
+CrO2Cl2,R733769,Processed
+InMe3 ,R734117,Processed
+Bi(NMe2)3,R733741,Processed
+CuCl2,R734220,Processed
+Te(SiEt3)2,R734083,Processed
+Ga,R31569,Processed
+SiEt2H2,R733727,Processed
+Fe(N(SiMe3)2)2,R733218,Processed
+Bi(CÂ­6H5)3,R733434,Processed
+tBuAsH2,R734073,Processed
+Eu(thd)3,R733289,Processed
+Sr[Ta(OEt)5(me)]2,R733352,Processed
+Ga(acac)3,R733351,Processed
+H2 + CH4 plasma,R733347,Processed
+Sc(iPrCp)3,R733220,Processed
+B3N3H6,R734018,Processed
+Ru(CpEt)(CpMe),R733461,Processed
+Ti(OiPr)3(iPr2AMD),R733795,Processed
+V(iPrAMD)3,R733865,Processed
+D2O,R733789,Processed
+Ti(NMe2)3(CpN),R733998,Processed
+Mo(NtBu)2(iPrAMD)2,R733954,Processed
+Er(DPDMG)3,R734137,Processed
+Li(thd),R733756,Processed
+Er(CpMe)3,R733462,Processed
+Y(sBuCp)3,R733254,Processed
+H2S plasma,R733336,Processed
+Zr(MeAMD)4,R734146,Processed
+Temperature treatment ,R733914,Processed
+CH3OH,R733344,Processed
+PH3,R733605,Processed
+Cu(dmap)2,R733720,Processed
+Pb(dmamp)4,R733368,Processed
+Ag(O2CtBu)(PEt3),R733361,Processed
+Only one half cycle,R733705,Processed
+Et2Se2,R733750,Processed
+Se,R39195,Processed
+SnI4,R734017,Processed
+NH3 + catalyst,R733610,Processed
+SnnBu3(EtO),R733860,Processed
+Gd(iPrCp)2(iPr2AMD),R733850,Processed
+Ga(iPr-triaz)3,R733300,Processed
+Ti(OMe)4,R733869,Processed
+(tBuO)3Si,R733839,Processed
+W(NtBu)2(N(SiMe3)2)2,R733710,Processed
+HS(CH2)2SH,R734016,Processed
+N2+H2 plasma,R733267,Processed
+Zr(CpMe)2(OMe)Me,R734155,Processed
+InClMe2,R734132,Processed
+YCp3,R733837,Processed
+GeH4,R733680,Processed
+TMA,R659083,Processed
+SnCl4,R733878,Processed
+AlH2(NMe2),R733609,Processed
+Ti(OtBu)4,R733891,Processed
+Zr(thd)4,R733330,Processed
+EtAsH2,R734076,Processed
+CoCl2(TMEDA) ,R734186,Processed
+ LiOtBu,R733686,Processed
+NH4F,R734015,Processed
+Cu(thd)2,R733817,Processed
 Sr(CpMe4nPr),R733322,Processed
+NaOtBu,R733925,Processed
+C2H2,R733615,Processed
+Ni(MeCp)2,R733780,Processed
+GaEt2Me,R733848,Processed
+AlMe2OiPr,R733191,Processed
+In(iPrAMD)3,R733855,Processed
+LiOSiMe3,R733561,Processed
+Mg(CpMe)2,R733721,Processed
+CBr4,R733554,Processed
+Pb(dmamp)2,R733274,Processed
+GeEt2H2,R733797,Processed
+SiCl4,R734029,Processed
+Ge(NMe2)4,R733371,Processed
+Ta(NMe2)5,R733655,Processed
+Co(CpSiMe3)(CO)2,R733350,Processed
+Co(tBu2DAD)2,R733948,Processed
+Y(iPrFMD)3,R733921,Processed
+PO(NH2)(OEt)2 plasma,R733226,Processed
+WFxOy,R733606,Processed
+Ta(OEt)4(dmae),R733924,Processed
+(CH3O)3PO,R733944,Processed
+VCl3,R733392,Processed
+Er(iPrCp)3,R734147,Processed
+Ti(NMe2)3(CpMe),R734065,Processed
+SeEt2,R733570,Processed
+(Me3Si)2Te,R733200,Processed
+P(OMe)3,R733792,Processed
+S(SiMe3)2,R733404,Processed
+Co[N(SiMe3)2]2(THF),R733692,Processed
+Cu(dmamb)2,R733840,Processed
+N2O,R734192,Processed
+tBuSStBu,R734108,Processed
+Sn(Ot-Amyl)2,R733930,Processed
+[Mn(MetBuCOCNtBu)2]2,R733500,Processed
+Te(tBu)2,R733905,Processed
+Y(CpEt)3,R733247,Processed
+W(NtBu)2(Me3SiMe)2,R733779,Processed
+NH3 photo assisted,R734187,Processed
+SiH(NHiPr)3,R733926,Processed
+TDMAT,R733984,Processed
+Y(CpMe)3,R733190,Processed
+Mo(EtBen)2,R733603,Processed
+InEtMe2,R733271,Processed
+Ag(NHC)(hmds),R733369,Processed
+Ti(OiPr)2(dmae)2,R733427,Processed
+O radical,R733432,Processed
+Ag(hfac)(cod),R733731,Processed
+Fe(CpCH2NMe2)Cp,R733488,Processed
+NbCl5,R734009,Processed
+Y(iPrAMD)3,R734054,Processed
+MoO2(tBuAMD)2,R733453,Processed
+Ru(od)3,R733852,Processed
+HfCl4,R733397,Processed
+N2 plasma ,R733918,Processed
+Ti(NEt2)4 ,R733952,Processed
+CCl3,R733787,Processed
+WH2(iPrCp)2,R733991,Processed
+Ti(NMe2)3(guan-NMe2),R734194,Processed
+H (hot-wire),R733303,Processed
+Er(NMe2CHCOtBu)3,R734151,Processed
+GeCl2Â·(C4H8O2),R734203,Processed
+O3 plasma,R733666,Processed
+La(iPrCp)3,R733659,Processed
+Ni(iPrAMD)2,R734161,Processed
+O2 plasma ,R733295,Processed
+Zr(dpm)4,R734153,Processed
+Al(iBu)3,R734081,Processed
+Co(thd)3,R733431,Processed
+N2O plasma,R733252,Processed
+B(NMe2)3,R733707,Processed
+O3,R733227,Processed
+H2S,R733349,Processed
+Ge(dpp-BIAN),R733843,Processed
+Hf(iPrFMD)2(NMe2)2,R733781,Processed
+SiH3(NiPr2),R734011,Processed
+Se(Si2Me4)2Se,R733391,Processed
+H2Se,R733819,Processed
+AlEt3,R733298,Processed
+Ru(CpEtMe)2,R733814,Processed
+Ce(iPrCp)3,R733258,Processed
+Sn(iPr2fAMD)2,R733285,Processed
+MoCp(CO)2(NO),R733460,Processed
+Sn(acac)2,R733499,Processed
+Ba(CpPrMe4)2,R733618,Processed
+hfac,R733608,Processed
+Ge(N(SiMe3)2)2,R733911,Processed
+Bi(OtBu)3,R733511,Processed
+Cu(acac)2,R734145,Processed
+SiH2(NMe2)2,R733373,Processed
+hydroquinone,R734128,Processed
 TiBr4,R733323,Processed
+Co(tBuAMD)2,R734046,Processed
+H2O+ NH3 + O2,R733931,Processed
+P2O5,R733436,Processed
+TaF5,R733275,Processed
+NH3 + H2 plasma,R733286,Processed
+(Et3Si)2Te,R734173,Processed
+Ba(Cp iPr3)2,R733613,Processed
+H (hot wire),R733506,Processed
+H2O,R676135,Processed
+SiH4,R733715,Processed
+Mo(MeCp)(CO)2(NO),R734040,Processed
+TDMA-Zr,R734172,Processed
+NaOSiMe3,R733904,Processed
+Zf(NMe2)4,R733997,Processed
+PO(NH2)(OEt)2,R733296,Processed
+Al(NiPr2)3,R733251,Processed
+Al(NMe2)3,R733972,Processed
+Ar + H2 plasma,R734114,Processed
+(iPrCp)3Er,R733386,Processed
+W(NtBu)2(iPrAMD)2,R733291,Processed
+CoI2,R733711,Processed
+PCl3,R733443,Processed
+Yb(MeCp)3,R733454,Processed
+TaI5,R733521,Processed
+Ge(guan)(NMe2),R733649,Processed
+La(Cp)3,R734189,Processed
+Zr(CpMe)CHT,R733717,Processed
+Cu(hfac)2,R733293,Processed
+Ir(CpMe)(COD),R734115,Processed
+Mo(NMe2)4,R734125,Processed
+Pr(iPrAMD)3,R733772,Processed
+Ru(CpEt)(dmopd),R733544,Processed
+ReO3Me,R733909,Processed
+Ru(thd)2(cod),R733447,Processed
+NH3 + B2H6,R733866,Processed
+(Me2N)3As,R733329,Processed
+La(N(SiMe3)2)3,R733359,Processed
+O3 / H2O / O3+H2O,R733580,Processed
+Ru(DMPD)2,R734213,Processed
+EtSeSeEt/H2 plasma,R734032,Processed
+Si(OnBu)4,R733970,Processed
+Pt(CpMe)Me3,R733849,Processed
+Ti(OiPr)2(dpm)2,R733343,Processed
+ZnCl2,R733504,Processed
+P(NMe2)3,R733545,Processed
+Hf(mp)4,R734077,Processed
+Ni(dmg)2,R733438,Processed
+Mo(CO)6,R733253,Processed
+AuCl(PEt3),R734219,Processed
+HS(CH2)5SH ,R736002,Processed
+AlMe3,R733861,Processed
+Zn(DMP)2,R733217,Processed
+Zr(CpMe)(NMe2)3,R733623,Processed
+BH3(NHMe2),R734055,Processed
+Si(NEtMe)4,R733634,Processed
+Pr(thd)3,R733670,Processed
+MgCp2,R733365,Processed
+SMe2,R733489,Processed
+Irradiation ,R733524,Processed
+Hf(OiPr)4,R733543,Processed
+Ti(NMeEt)4,R733677,Processed
+Pb(tod)2,R733591,Processed
+Gd(CpMe)3,R733979,Processed
+B3Cl3H3N3,R733552,Processed
+Ni(Chex)(Cp),R733269,Processed
+[Ga(NMe2)3]2,R734019,Processed
+O3 / O3+H2O,R733722,Processed
+BEt3,R733202,Processed
+GaEt2Cl,R734211,Processed
+Al(CH3)3,R733656,Processed
+Si3Cl8,R733594,Processed
+H2 plasma + NH3,R733363,Processed
+KOtBu,R733509,Processed
+H(acac),R733689,Processed
+Te(SiMe3)2 + NH3,R733313,Processed
+Zr(NO3)4,R733586,Processed
+Ga(thd)3,R733581,Processed
+SnHBu3,R734167,Processed
+Cu(dpm)2,R734121,Processed
+tBuNHNH2,R734007,Processed
+Sn(tbtp)2,R733851,Processed
+(Me3Si)2Se,R734119,Processed
+Pr(iPrCp)2(iPr2AMD),R733399,Processed
+InâGa bimetallic single precursor,R734013,Processed
+Ca(CpiPr3)2,R733457,Processed
+Fe(hfac)2(TMEDA),R733314,Processed
+electrons,R733244,Processed
+TiCl4,R676174,Processed
+AlCl3,R734138,Processed
+La(CpiPr)3,R733567,Processed
+Ti(CpMe)(OMe)3,R733827,Processed
+Zn(MeCOO)2,R733593,Processed
+La(FMD)3,R733804,Processed
+tBu-AllylCo-(CO)3,R734133,Processed
+GaMe3(CH3OCH2CH2NHtBu),R733811,Processed
+He plasma,R733885,Processed
+nPrOH,R733355,Processed
+Et2 Te,R734210,Processed
+WO2(tBuAMD)2,R733305,Processed
+Ir(CpMe)(CHD),R733596,Processed
+RuDMBD(CO)3,R734091,Processed
+W(CpEt)(CO)2(NO),R733638,Processed
+Mn2(CO)10,R734205,Processed
+Se(S2CNMe2)4,R733301,Processed
+Pb(dbda),R733380,Processed
+O3+H2O,R733962,Processed
+AlMe2(C3H6NMe2),R733415,Processed
+(Et3Si)2Se,R733963,Processed
+ Al(OiPr)3,R734000,Processed
+Y(tBu2FMD)3,R733652,Processed
+Cd,R155271,Processed
+Te(OEt)4 ,R733862,Processed
+Sr(CpiPr3)2(Et[OMe]2),R734182,Processed
+Cu(iPr2NHC)(N(SiMe3)2),R733803,Processed
+Te2(n-C4H9)2,R733978,Processed
+Sr(CpMe5)2,R733280,Processed
+InCl,R733910,Processed
+Ga(triaz)3,R734218,Processed
+Er(MeCp)2(iPrAMD),R733201,Processed
+CH3 COOH,R733653,Processed
+MoO2Cl2,R733802,Processed
+Ti(CpMe5)(OMe)3,R733195,Processed
+Gd(thd)3,R733335,Processed
+TBF,R733907,Processed
+NH3,R676164,Processed
+Ta(NEtMe)5,R733590,Processed
+H2 plasma + NH3 plasma,R733233,Processed
+La(iPrCp)2(iPrAMD),R733786,Processed
+Sb(NEt2)3,R733213,Processed
+O2+Ar plasma,R733620,Processed
+[AlPr(OiPr)6(iPrOH)]2,R733287,Processed
+V(NMe2)4,R733481,Processed
+Si2(NHEt)6,R733883,Processed
+MoCl4O,R733410,Processed
+PbEt4,R733633,Processed
+C7H8Mo(CO)3,R733560,Processed
+SiCl2Me2,R733773,Processed
+Ta(NC5H11)(NMe2)3,R733334,Processed
+In(PrNMe2)Me2,R733967,Processed
+AlH2(NtBuCH2CH2NC4H8),R733340,Processed
+Ta(OEt)5,R734072,Processed
+N(SiH3)3,R734215,Processed
+MnTp2,R733759,Processed
+Ru(chd)2,R733502,Processed
+CO2 plasma,R734043,Processed
+AlH3N:(C5H11),R733622,Processed
+Fe2(tBuO)6,R733685,Processed
+SiI4,R733424,Processed
+Se(SiEt3)2,R734166,Processed
+Sc(thd)3,R733572,Processed
+EtSSEt,R733980,Processed
+Ni(dmamb)2,R733467,Processed
+La(CpMe4)3,R733219,Processed
+Ru(CpEt)2,R734178,Processed
+H2 plasma+ O2,R734087,Processed
+Yb(thd)3,R733641,Processed
+Se(SiMe2(CH2)2SiMe2),R733537,Processed
+Ag(fod)(PEt3),R733239,Processed
+Cu(dki)(vtms),R733232,Processed
+PbPh4,R733902,Processed
+Sr2(thd)2(demamp)2,R733539,Processed
+Sc(EtAMD)3,R733888,Processed
+Ti(NMe2)3(dmap),R733934,Processed
+Au(PMe3)Me3,R733585,Processed
+O2/H2O,R733442,Processed
+Te(OEt)4,R733862,Processed
+InEt3,R733578,Processed
+Et2Se,R733671,Processed
+HF+H2O,R733793,Processed
+Dy(DPDMG)3,R733753,Processed
+Te(SiMe3)2,R733908,Processed
+Ni(cp)2,R733683,Processed
+FeCp(EtCp),R734221,Processed
+Z(NMe2)4,R733740,Processed
+Hf(edpa)4,R734028,Processed
+Al(OsBu)3,R733470,Processed
+H2 + H2O,R733809,Processed
+Ce(DPDMG)3,R733270,Processed
+SnC12H28N2O2,R733833,Processed
+Zr(C5H5BNMe2)(NMe2)3,R733564,Processed
+Sn(dmpa)2,R734142,Processed
+Co(thd)2,R733388,Processed
+ZrCp2Me2,R733534,Processed
+(NiPr2)H2Si-SiH2(NiPr2),R733667,Processed
+GeCl4,R733986,Processed
+Sn(Î·2 -((NtBu)CMe2CH2(NtBu))),R733379,Processed
+Hf{Î·2-(iPrN)2CNEtMe}(NEtMe)3,R733932,Processed
+ZnMe(OiPr),R733953,Processed
+Sn(edpa)2,R734042,Processed
+ZnI2,R733512,Processed
+Na(OtBu),R733209,Processed
+PH3 plasma,R733522,Processed
+Co(CO)3NO,R734035,Processed
+Ti(OiPr)4,R733799,Processed
+Sc(iPrAMD)3,R733823,Processed
+(Me2SiO)4,R734092,Processed
+InMe2(NtBu(CH2)2(CH3)2OMe),R734059,Processed
+Mo(NtBu)2(NEt2)2,R733611,Processed
+Zn[N(SiMe3)2]2,R733600,Processed
+H2O2 + H2O,R733726,Processed
+Pb(N(SiMe3)2)2,R733639,Processed
+Nb(NtBu)(NEt2)3,R733682,Processed
+Ti(mmp)4,R733701,Processed
+PtMe2-hexadiene,R734112,Processed
+Ta(NtBu)(NEtMe)3,R733695,Processed
+BeMe2,R733196,Processed
+NH3 + O2 plasma,R733268,Processed
+Au(N(SiMe3)2)(PEt3),R733265,Processed
+Ru(chd)(ipmp),R734041,Processed
+MoH2(iPrCp)2,R733241,Processed
+Y(iPrCp)3,R733356,Processed
+ZrCl2Cp2,R734185,Processed
+Cu(hfac)(dmb),R734207,Processed
+Y(thd)3,R734216,Processed
+TaNp3Cl2,R733354,Processed
+NH3 + Ar + N2,R734181,Processed
+Ar+N2/NH3/H2 plasma,R733199,Processed
+HfCp2Me2,R733393,Processed
+Se(SnMe3)2,R733320,Processed
+Cu(hfac)(vtmos),R734006,Processed
+SnMe4,R733595,Processed
+"Sn(N2,N3-((NtBu)CHMeCHMe(NtBu)))2",R733854,Processed
+Hf(Cp2CMe2)Me2,R733306,Processed
+Hf[Î·5:Î·1-Cp(CH2)(SiMe2)NMe](NMe2)2,R733784,Processed
+Ca(iPrAMD)2,R733307,Processed
+Ru(MeCp)(pyr),R733294,Processed
+InCl3,R733419,Processed
+(SiMe3)3Sb,R733370,Processed
+Ta(NtBu)(tBu2pz)3,R733224,Processed
+Si(NHEt)6,R733697,Processed
+Co2(CO)6HCâ¡CC5H11,R733801,Processed
+HâNNMeâ,R733834,Processed
+MeHNNHâ,R733977,Processed
+AsH3,R734105,Processed
+Ce(dpdmg)3,R733270,Processed
+SiHMe3,R733961,Processed
+N2/O2 plasma,R733333,Processed
+H2/N2 plasma,R734020,Processed
+Ru(EBBD),R734135,Processed
+Cr(thd)3,R734068,Processed
+Hf(OtBu)2(mmp)2,R733981,Processed
+S,R32332,Processed
+Li(N(SiMe3)2),R734033,Processed
+SrTp2,R733513,Processed
+Hf(CpMe)2Me2,R733463,Processed
+MeOSi(NCO)3,R734036,Processed
+ Mo(NMe2)2(NtBu)2,R734152,Processed
+N2 + NH3 plasma,R733225,Processed
+Ca(iPrFMD)2,R733297,Processed
+Mn(tBuAMD)2,R733514,Processed
+Ni(apo)2,R733856,Processed
+SiH4 + NH3,R733348,Processed
+Pb(dedtc)2,R733426,Processed
+TetBu2,R733687,Processed
+Sn(Î·2 -((NtBu)CHMeCHMe(NtBu)))2,R733317,Processed
+Pd(thd)2,R733538,Processed
+Ru(IMBCH),R733846,Processed
+Si(OEt)3(nPrNH2),R733853,Processed
+CdMe2,R733810,Processed
+HfI4,R734050,Processed
+VO(acac)2,R733256,Processed
+GaMe3,R733737,Processed
+Ti(OiPr)4 ,R733799,Processed
+Ru2{Î¼2-Î·3-N(tBu)âC(H)âC(iPr)}(CO)6,R734196,Processed
+Co(acac)2,R733360,Processed
+SiH2Et2,R733790,Processed
+(Me3Ge)2DHP,R733796,Processed
+Sr[Ta(OEt)5(OC2H4OMe)]2,R733487,Processed
+Hf(OtBu)4,R733943,Processed
+CH4 + NH3 + H2,R733385,Processed
+As(NMe2)3,R733331,Processed
+O3 + H2O,R733589,Processed
+GeMe2H2,R733887,Processed
+Ba(TpEt2)2,R733556,Processed
+H2O+ NH3,R733496,Processed
+CsOtBu,R733895,Processed
+Me2EtN:AlH3,R733472,Processed
+NH3 + AlMe3,R733277,Processed
+Irradiation,R733524,Processed
+Ar plasma,R734164,Processed
+Humified Argon Plasma,R733459,Processed
+POCl3,R734070,Processed
+MoF6,R733959,Processed
+Cu(Ac(SiMe3)2)(hfac),R733203,Processed
+GaMe2NH2,R733547,Processed
+Si2Cl3H3,R734156,Processed
+[Sr(demamp)(thd)]2,R733806,Processed
+Ru(EtCp)(py),R734110,Processed
+NO,R9328,Processed
+Si(OCMe2Et)3OH,R733372,Processed
+n.r.,R32199,Processed
+PO(OMe)3,R733479,Processed
+H2 + catalyst,R733529,Processed
+Dy(emd)3,R733767,Processed
+Al(iPrAMD)Et2,R734023,Processed
+Mn(CpMe4)2,R733337,Processed
+"Fe(2,4-C7H11)2",R734130,Processed
+Mo(SiMe3Cp)(CO)2(Î·3-2-MeAllyl),R733844,Processed
+CuCp(PEt3),R733937,Processed
+(Me3Si)3Sb,R733642,Processed
+GaI,R733604,Processed
+Si(OMe)4,R733776,Processed
+Ta(NEt)(NEt2)3,R733455,Processed
+W(tBuN)2(Me2N)2,R733367,Processed
+N(SiMe3)(SiHMeNMe2)2,R733310,Processed
+Ru(EBECH),R733675,Processed
+N2 O,R733732,Processed
+GaCl,R733599,Processed
+Y(MeCp)3,R733874,Processed
+H2O||,R733237,Processed
+W(MeCp)(CO)2(NO),R733465,Processed
+Sn(NEtMe)4,R733818,Processed
+H2NNH2,R733688,Processed
+(EtCp)WH(CO)3,R733877,Processed
+WCl6,R733414,Processed
+Mg(Cp)2,R733574,Processed
+Hf(NMe2)2(guan-NMe2)2,R733788,Processed
+Pt(DDAP),R733290,Processed
+Ti(EtCp)(NMe2)3,R733858,Processed
+N2/H2 plasma,R734170,Processed
+Ti(OEt)4,R733229,Processed
+GaEt3,R733536,Processed
+Zn(eeki)2,R734078,Processed
+W(CO)6,R733362,Processed
+P(OMe)3O plasma,R733650,Processed
+Nd(iPrCp)3,R733765,Processed
+Si3H8,R733617,Processed
+H radicals,R734008,Processed
+V(NEtMe)4,R733299,Processed
+Ni(hfip)2,R733936,Processed
+Photons,R733763,Processed
+GaMe3[MeO(CH2)2NHtBu],R733636,Processed
+SiH2(NHtBu)2,R733700,Processed
+InMe2(edpa),R733468,Processed
+CdCl2,R73074,Processed
+Sn(NMe2)4,R733395,Processed
+Ni(iPr2DAD)2,R733696,Processed
+O2 Plasma,R733295,Processed
+Zr(NEt2)4,R733583,Processed
+Zr(Cp)(tBuDAD)(OiPr),R733871,Processed
+Gd(DPDMG)3,R733527,Processed
+MoOCl4,R734004,Processed
+Ni(acac)2,R733738,Processed
+Ru(CpEt)(dmp),R733912,Processed
+Ta(NiPr)(NEtMe)2               ,R736003,Processed
+Zr(Me5Cp)(TEA),R734180,Processed
+Ga2(NMe2)6,R733994,Processed
+Mo(thd)3,R733760,Processed
+ AlCl3,R734138,Processed
+Ni(MeiPrCOCNtBu)2,R733587,Processed
+In,R592335,Processed
+Sc(MeCp)3,R733836,Processed
+Zr(CpMe)2Me(OMe),R733577,Processed
+PbBr2,R733835,Processed
+GaBr,R733690,Processed
+Hf(CpMe)(NMe2)3,R734089,Processed
+Al(OiPr)3,R734000,Processed
+MoCl5,R733886,Processed
+Pb(OAc)2,R734175,Processed
+SF6 plasma,R733338,Processed
+H2,R733357,Processed
+Fe(thd)3,R733958,Processed
+(GaMe2NH2)3,R733503,Processed
+SiH2(NEt2)2,R733815,Processed
+AlH2(tBuN)CH2CH2(NMe2),R733466,Processed
+Ti(NEtMe)3(guan-NEtMe),R733830,Processed
+Temperature treatment,R733914,Processed
+Zr(CpMe2)2Me(OtBu),R733422,Processed
+Lu(iPrCp)3,R733236,Processed
+Mn,PWC_MN_MODEL,Processed
+ ZnEt2,R733783,Processed
+H2 + N2 + NH3 e,R733881,Processed
+Mn(CpEt)2,R733394,Processed
+Pt(acac)2,R733627,Processed
+Al(OnPr)3,R733643,Processed
+Hhfac,R733401,Processed
+Mo(NMe2)2(NtBu)2,R734152,Processed
+Ir(acac)3,R734061,Processed
 Pr[N(SiMe3)2]3,R733324,Processed
-Si2H6,R733325,Processed
+Ti(CpMe)(OiPr)3,R733956,Processed
+PO(NH)2(OEt)2,R733223,Processed
+O2 + H2 plasma,R733965,Processed
+Bi[N(SiMe3)2]3,R734056,Processed
+H2O ,R676135,Processed
+(MeCp)2HfMe(OMe),R733446,Processed
+SrTa2(OEt)10(dmae)2,R733922,Processed
+Hf(Cp)(NMe2)3,R733261,Processed
+Fe(OtBu)3,R733592,Processed
+Ar+O2,R733249,Processed
+Si(OEt)3(C3H6NH2),R733893,Processed
+tBu-AllylCo(CO)3,R733658,Processed
+P(OMe)3O,R733805,Processed
+"N2,H e",R733857,Processed
+[Cu(iPrAMD)]2,R733744,Processed
+PrSH,R733319,Processed
+Co(N(SiMe3)2)2(THF),R733584,Processed
+BiPh3,R733458,Processed
+Me2NNH2,R733278,Processed
+ Er(iprCp)3,R734147,Processed
+propanol,R733281,Processed
+Sn(cyam),R734109,Processed
 Co(iPr2DAD)2,R733326,Processed
 Sr(CptBu3)2,R733327,Processed
-Me3N:AlH3,R733328,Processed
-(Me2N)3As,R733329,Processed
-Zr(thd)4,R733330,Processed
-As(NMe2)3,R733331,Processed
-Bi(mmp)3,R733332,Processed
-N2/O2 plasma,R733333,Processed
-Ta(NC5H11)(NMe2)3,R733334,Processed
-Gd(thd)3,R733335,Processed
-H2S plasma,R733336,Processed
-Mn(CpMe4)2,R733337,Processed
-SF6 plasma,R733338,Processed
-NiCp2,R733339,Processed
-AlH2(NtBuCH2CH2NC4H8),R733340,Processed
-Tb(thd)3,R733341,Processed
-O2n,R733342,Processed
-Ti(OiPr)2(dpm)2,R733343,Processed
-CH3OH,R733344,Processed
-Ru(thd)3,R733345,Processed
- Me2Au(S2CNEt2),R733346,Processed
-CdCl2,R73074,Processed
-H2 + CH4 plasma,R733347,Processed
-SiH4 + NH3,R733348,Processed
-H2S,R733349,Processed
-Co(CpSiMe3)(CO)2,R733350,Processed
-Ga(acac)3,R733351,Processed
-Sr[Ta(OEt)5(me)]2,R733352,Processed
-Ru(CO)2(mhdk)2,R733353,Processed
-TaNp3Cl2,R733354,Processed
-nPrOH,R733355,Processed
-Y(iPrCp)3,R733356,Processed
-H2,R733357,Processed
-[EtZn(damp)]2,R733358,Processed
-La(N(SiMe3)2)3,R733359,Processed
-Co(acac)2,R733360,Processed
-Ag(O2CtBu)(PEt3),R733361,Processed
-W(CO)6,R733362,Processed
-H2 plasma + NH3,R733363,Processed
-Mg(iPrCp)2,R733364,Processed
-MgCp2,R733365,Processed
-ZrCp2Me(OMe),R733366,Processed
-W(tBuN)2(Me2N)2,R733367,Processed
-Pb(dmamp)4,R733368,Processed
-Ag(NHC)(hmds),R733369,Processed
-(SiMe3)3Sb,R733370,Processed
-Ge(NMe2)4,R733371,Processed
-Si(OCMe2Et)3OH,R733372,Processed
-SiH2(NMe2)2,R733373,Processed
-Nb(NtBu)(NEtMe)3,R733374,Processed
-Si(OtBu)3OH,R733375,Processed
- Mn(thd)3,R733376,Processed
-TICP,R733377,Processed
-Fe(CptBu)2,R733378,Processed
-Sn(Î·2 -((NtBu)CMe2CH2(NtBu))),R733379,Processed
-Pb(dbda),R733380,Processed
-Me8Si4Te2,R733381,Processed
-Zr(OtBu)2(dmae)2,R733382,Processed
-Ar-H2 Plasma,R733383,Processed
-H2S+Ar Plasma,R733384,Processed
-CH4 + NH3 + H2,R733385,Processed
-(iPrCp)3Er,R733386,Processed
-Fe(acac)3,R733387,Processed
-Co(thd)2,R733388,Processed
-W2(NMe2)6,R733389,Processed
-B(OMe)3,R733390,Processed
-Se(Si2Me4)2Se,R733391,Processed
-VCl3,R733392,Processed
-HfCp2Me2,R733393,Processed
-Mn(CpEt)2,R733394,Processed
-Sn(NMe2)4,R733395,Processed
-Sb,R733396,Processed
-HfCl4,R733397,Processed
-CuCl,R733398,Processed
-Pr(iPrCp)2(iPr2AMD),R733399,Processed
-Zn(OAc)2,R733400,Processed
-Hhfac,R733401,Processed
-Zn(pmCp)2,R733402,Processed
-(SiEt3)2Te,R733403,Processed
-S(SiMe3)2,R733404,Processed
-Ru(EtCp)2,R733405,Processed
-Si2Cl5H,R733406,Processed
-RuCp(CpCH(Me)(NMe2)),R733407,Processed
-Ta(NtAm)(NMe2)3,R733408,Processed
-Ru(tBuAMD)2(CO)2,R733409,Processed
-MoCl4O,R733410,Processed
-Ba pyrrole,R733411,Processed
-Ta(NtBu)(iPrAMD)2(NMe2),R733412,Processed
-Zn(NMe2)4,R733413,Processed
-WCl6,R733414,Processed
-AlMe2(C3H6NMe2),R733415,Processed
-Na(thd),R733417,Processed
-Ta(NiPr)(NEtMe)3,R733418,Processed
-InCl3,R733419,Processed
-NO2,R733420,Processed
-In(dpguan)3,R733421,Processed
-Zr(CpMe2)2Me(OtBu),R733422,Processed
-Nb(NtBu)(NEt2)2(Cp),R733423,Processed
-SiI4,R733424,Processed
-electrons,R733244,Processed
-Se2(Si(iPr)2)2,R733425,Processed
-Pb(dedtc)2,R733426,Processed
-Ti(OiPr)2(dmae)2,R733427,Processed
-NEt3,R733428,Processed
-Sb(SiEt3)3,R733429,Processed
-Zr(dmae)4,R733430,Processed
-Co(thd)3,R733431,Processed
-O radical,R733432,Processed
-NH3/N2 plasma,R733433,Processed
-Bi(CÂ­6H5)3,R733434,Processed
-Mn(CpMe)2,R733435,Processed
-P2O5,R733436,Processed
-Temperature treatment ,R733437,Processed
-Ni(dmg)2,R733438,Processed
-Zr(CpMe)2 Me(OMe),R733439,Processed
-Bi(NMeEt)3,R733440,Processed
-Sn(NMeEt)4,R733441,Processed
-O2/H2O,R733442,Processed
-PCl3,R733443,Processed
-Bi(thd)3,R733444,Processed
-"O3, H2O",R733445,Processed
-(MeCp)2HfMe(OMe),R733446,Processed
-Ru(thd)2(cod),R733447,Processed
-N2H4,R733448,Processed
-Hf(BH4)4,R733449,Processed
-CoCl2(TMEDA) ,R733450,Processed
-Zr(OtBu)4,R733451,Processed
-SiCl3H,R733452,Processed
-MoO2(tBuAMD)2,R733453,Processed
-Yb(MeCp)3,R733454,Processed
-Ta(NEt)(NEt2)3,R733455,Processed
-Et2Te,R733456,Processed
-Ca(CpiPr3)2,R733457,Processed
-BiPh3,R733458,Processed
-Humified Argon Plasma,R733459,Processed
-MoCp(CO)2(NO),R733460,Processed
-Ru(CpEt)(CpMe),R733461,Processed
-Er(CpMe)3,R733462,Processed
-Hf(CpMe)2Me2,R733463,Processed
-CH3CHOHCH3,R733464,Processed
-W(MeCp)(CO)2(NO),R733465,Processed
-AlH2(tBuN)CH2CH2(NMe2),R733466,Processed
-Ni(dmamb)2,R733467,Processed
-InMe2(edpa),R733468,Processed
-Ti(OiPr)4 ,R733469,Processed
-Al(OsBu)3,R733470,Processed
-HGeCl3,R733471,Processed
-Me2EtN:AlH3,R733472,Processed
-H2O+H2O plasma,R733473,Processed
--,R733474,Processed
-La(tmod)3,R733475,Processed
-CaTp2,R733476,Processed
-Zr(NMe2)4,R733477,Processed
-Sn(N(SiMe3)2)2,R733478,Processed
-PO(OMe)3,R733479,Processed
- Er(iprCp)3,R733480,Processed
-V(NMe2)4,R733481,Processed
-Sn(iPrAMD)2,R733482,Processed
-Se(SiMe3)2,R733483,Processed
-Bi(OC6H13)3,R733484,Processed
-Lu(OiPr)3,R733485,Processed
-GaiBu3,R733486,Processed
-Sr[Ta(OEt)5(OC2H4OMe)]2,R733487,Processed
-Fe(CpCH2NMe2)Cp,R733488,Processed
-SMe2,R733489,Processed
-S,R32332,Processed
-Ru(EBCHD),R733490,Processed
-Al(NiPr2)2(C3H6NMe2),R733491,Processed
-V(NEt2)4,R733492,Processed
- LiOtBu,R733493,Processed
-GaNp3,R733494,Processed
-ZnMe2,R733495,Processed
-H2O+ NH3,R733496,Processed
-(Et3Si)3As,R733497,Processed
-[NdAl(OiPr)6(iPrOH)]2,R733498,Processed
-Sn(acac)2,R733499,Processed
-[Mn(MetBuCOCNtBu)2]2,R733500,Processed
-Ca(hfac)2,R733501,Processed
-Ru(chd)2,R733502,Processed
-(GaMe2NH2)3,R733503,Processed
-ZnCl2,R733504,Processed
-Ag(hfac)(PMe3),R733505,Processed
-H (hot wire),R733506,Processed
-Zr(OiPr)4,R733507,Processed
-HCHO + ethanol,R733508,Processed
-KOtBu,R733509,Processed
-[Cu(sBuAMD)]2,R733510,Processed
-Bi(OtBu)3,R733511,Processed
-ZnI2,R733512,Processed
-SrTp2,R733513,Processed
-Mn(tBuAMD)2,R733514,Processed
-Sr(CpnPrMe3)2,R733515,Processed
-Ba(dpm)2,R733516,Processed
-H2 plasma  ,R733517,Processed
-Ru(hd)(ipmp),R733518,Processed
-(BuO)3SiOH,R733519,Processed
-VO(thd)2,R733520,Processed
-TaI5,R733521,Processed
-HF,R254335,Processed
-PH3 plasma,R733522,Processed
-RbOtBu,R733523,Processed
-Irradiation,R733524,Processed
-TiI4,R733525,Processed
- Mo(NMe2)2(NtBu)2,R733526,Processed
-Gd(DPDMG)3,R733527,Processed
-Ca(iPr2fAMD)2,R733528,Processed
-H2 + catalyst,R733529,Processed
-BBr3,R733530,Processed
-Sn(dmamp)2,R733531,Processed
-Hf(NO3)4,R733532,Processed
-MoCl4(THD)(THF),R733533,Processed
-ZrCp2Me2,R733534,Processed
-HF-pyridine,R733535,Processed
-GaEt3,R733536,Processed
-Se(SiMe2(CH2)2SiMe2),R733537,Processed
-Pd(thd)2,R733538,Processed
-Sr2(thd)2(demamp)2,R733539,Processed
-InMe3[MeO(CH2)2NHtBu],R733540,Processed
-Pb(ClO4)2,R733541,Processed
- ZnEt2,R733542,Processed
-Hf(OiPr)4,R733543,Processed
-Ru(CpEt)(DMOPD),R733544,Processed
-P(NMe2)3,R733545,Processed
-BDEAS,R733546,Processed
-GaMe2NH2,R733547,Processed
-Nb(OEt)5,R733548,Processed
-Ag(hfac)(PM3),R733549,Processed
-Ru(CpEt)(dmopd),R733544,Processed
-Te(GeMe3)2,R733550,Processed
-Ca(thd)2,R733551,Processed
-B3Cl3H3N3,R733552,Processed
- Al(OiPr)3,R733553,Processed
-CBr4,R733554,Processed
-HS(CH2)5SH ,R733555,Processed
-Ba(TpEt2)2,R733556,Processed
-La(CpEt)3,R733557,Processed
-CMe3OH,R733558,Processed
-Al2(NMe2)6,R733559,Processed
-C7H8Mo(CO)3,R733560,Processed
-LiOSiMe3,R733561,Processed
-Hf(OtBu)(NEtMe)3,R733562,Processed
-AlMe2Cl,R733563,Processed
-Zr(C5H5BNMe2)(NMe2)3,R733564,Processed
-Al(OEt)3,R733565,Processed
-BiMe3,R733566,Processed
-La(CpiPr)3,R733567,Processed
-ZrCp2(NMe2)2,R733568,Processed
-Co(iPr2AMD)2,R733569,Processed
-SeEt2,R733570,Processed
-Co(CpEt)2,R733571,Processed
-Sc(thd)3,R733572,Processed
-In(thd)3,R733573,Processed
-Mg(Cp)2,R733574,Processed
-ZrI4,R733575,Processed
-Hf(ONEt2)4,R733576,Processed
-Zr(CpMe)2Me(OMe),R733577,Processed
-InEt3,R733578,Processed
-Sn(allyl)4,R733579,Processed
-O3 / H2O / O3+H2O,R733580,Processed
-Ga(thd)3,R733581,Processed
-Ba(CpnPrMe4)2,R733582,Processed
-Zr(NEt2)4,R733583,Processed
-Co(N(SiMe3)2)2(THF),R733584,Processed
-Irradiation ,R733524,Processed
-Au(PMe3)Me3,R733585,Processed
-Zr(NO3)4,R733586,Processed
-Ni(MeiPrCOCNtBu)2,R733587,Processed
-Te(SiEt3)2 plasma,R733588,Processed
-O3 + H2O,R733589,Processed
-Ta(NEtMe)5,R733590,Processed
-Pb(tod)2,R733591,Processed
-Fe(OtBu)3,R733592,Processed
-Zn(MeCOO)2,R733593,Processed
-Si3Cl8,R733594,Processed
-SnMe4,R733595,Processed
-Ir(CpMe)(CHD),R733596,Processed
-Y(DPDMG)3,R733597,Processed
-Ta(NtBu)(NEt2)3,R733598,Processed
-GaCl,R733599,Processed
-Zn[N(SiMe3)2]2,R733600,Processed
-Nd(thd)3,R733601,Processed
-Sn(OAc)4,R733602,Processed
-Mo(EtBen)2,R733603,Processed
-GaI,R733604,Processed
-PH3,R733605,Processed
-WFxOy,R733606,Processed
-Si(Î·2-((NtBu)CMe2CH2(NtBu))),R733607,Processed
-hfac,R733608,Processed
-AlH2(NMe2),R733609,Processed
-NH3 + catalyst,R733610,Processed
-Mo(NtBu)2(NEt2)2,R733611,Processed
-N2O4,R733612,Processed
-Ba(Cp iPr3)2,R733613,Processed
-NH3 + N2 plasma,R733614,Processed
-C2H2,R733615,Processed
-GeCl3H,R733616,Processed
-Sn(NMe2)4 ,R733395,Processed
-Si3H8,R733617,Processed
-Ba(CpPrMe4)2,R733618,Processed
-SnBr4,R733619,Processed
-O2+Ar plasma,R733620,Processed
-Se(SiiPr3)2,R733621,Processed
-AlH3N:(C5H11),R733622,Processed
-Zr(CpMe)(NMe2)3,R733623,Processed
-Zr(CpEt)(NMe2)3,R733624,Processed
-Ge(OEt)4,R733625,Processed
-Zr[N(SiMe3)2]2Cl2,R733626,Processed
-Pt(acac)2,R733627,Processed
-Al(mmp)3,R733628,Processed
-FeCl3,R733629,Processed
-Ti(NEt2)4 ,R733630,Processed
-[Î·6:Î·1-(C5H5BNMe2)]Hf(NMe2)3,R733631,Processed
-HCl,R733632,Processed
-PbEt4,R733633,Processed
-Si(NEtMe)4,R733634,Processed
-Mo(tBuN)2(StBu)2,R733635,Processed
-GaMe3[MeO(CH2)2NHtBu],R733636,Processed
-TiF4,R733637,Processed
-W(CpEt)(CO)2(NO),R733638,Processed
-Pb(N(SiMe3)2)2,R733639,Processed
-Zn(acac)2,R733640,Processed
-Yb(thd)3,R733641,Processed
-(Me3Si)3Sb,R733642,Processed
-Al(OnPr)3,R733643,Processed
-ZrCp2Cl2,R733644,Processed
-RuCp(CO)2Et,R733645,Processed
-Gd(MeCp)3,R733646,Processed
-HN[SiMe3]2,R733647,Processed
-Zr(CpMe)2Me2,R733648,Processed
-Ge(guan)(NMe2),R733649,Processed
-P(OMe)3O plasma,R733650,Processed
-In(N(SiMe3)2)Et2,R733651,Processed
-Y(tBu2FMD)3,R733652,Processed
-CH3 COOH,R733653,Processed
-CHD,R733654,Processed
-Ta(NMe2)5,R733655,Processed
-Al(CH3)3,R733656,Processed
-Pr(EtCp)3,R733657,Processed
-tBu-AllylCo(CO)3,R733658,Processed
-La(iPrCp)3,R733659,Processed
-Bi(OCMe2iPr)3,R733660,Processed
-In(NMe2)Me2,R733661,Processed
-Yb(thd)3 + Er(thd)3 ,R733662,Processed
-Co(AMD)2,R733663,Processed
-[(SiMe3)2NBi-Î¼-NSiMe3]2,R733664,Processed
-synthetic air,R733665,Processed
-O3 plasma,R733666,Processed
-(NiPr2)H2Si-SiH2(NiPr2),R733667,Processed
-Ru(Me2pyr)2,R733668,Processed
-[LaAl(OiPr)6(iPrOH)]2,R733669,Processed
-Pr(thd)3,R733670,Processed
-Et2Se,R733671,Processed
-In(EtCp),R733672,Processed
-HfCp2Cl2,R733673,Processed
- Gd((iPrN)2CNMe2)3,R733674,Processed
-Ru(EBECH),R733675,Processed
-C6H4(OH)2,R733676,Processed
-Ti(NMeEt)4,R733677,Processed
-Hf(CpMe)2(OiPr)Me,R733678,Processed
-Mn(EtCp)2,R733679,Processed
-GeH4,R733680,Processed
-WH2Cp2,R733681,Processed
-Nb(NtBu)(NEt2)3,R733682,Processed
-Ni(cp)2,R733683,Processed
-Ta(NCMe2Et)(NMe2)3,R733684,Processed
-Fe2(tBuO)6,R733685,Processed
-LiOtBu,R733686,Processed
-TetBu2,R733687,Processed
-H2NNH2,R733688,Processed
-H(acac),R733689,Processed
-GaBr,R733690,Processed
-O2 + NH3,R733691,Processed
-Co[N(SiMe3)2]2(THF),R733692,Processed
-Dy(iPrCp)2(iPr2AMD),R733693,Processed
-C2H4,R733694,Processed
-Ta(NtBu)(NEtMe)3,R733695,Processed
-Ni(iPr2DAD)2,R733696,Processed
-Si(NHEt)6,R733697,Processed
-Pb4O(OtBu)6,R733698,Processed
-Si(SiH3)4,R733699,Processed
-SiH2(NHtBu)2,R733700,Processed
-Ti(mmp)4,R733701,Processed
-Zr(NEtMe)3(guan-NEtMe),R733702,Processed
-Co(CpMe)2,R733703,Processed
-SnEt4,R733704,Processed
-Only one half cycle,R733705,Processed
-Ti(OiPr)2(NMe2)2,R733706,Processed
-B(NMe2)3,R733707,Processed
-SiH3(NsBu2),R733708,Processed
-TaCl5 Â· SEt2,R733709,Processed
-W(NtBu)2(N(SiMe3)2)2,R733710,Processed
-CoI2,R733711,Processed
-Zn(CpnPrMe4)2,R733712,Processed
-HfCp(edpa)3,R733713,Processed
-Ti(OMe)4 ,R733714,Processed
-SiH4,R733715,Processed
-Ge(OMe)4,R733716,Processed
-Zr(CpMe)CHT,R733717,Processed
-GaI3,R733718,Processed
-Si2Cl6,R733719,Processed
-Cu(dmap)2,R733720,Processed
-Mg(CpMe)2,R733721,Processed
-O3 / O3+H2O,R733722,Processed
-Ge2H6,R733723,Processed
-n.r.,R32199,Processed
-CH3CH2OH,R733724,Processed
-Zn(Cppm)2,R733725,Processed
-H2O2 + H2O,R733726,Processed
-SiEt2H2,R733727,Processed
-Cu(PnBu3)2(acac),R733728,Processed
-Ti(OiPr)2(thd)2,R733729,Processed
-Al(NEt2)3,R733730,Processed
-Ag(hfac)(cod),R733731,Processed
-N2 O,R733732,Processed
-Al(acac)3,R733733,Processed
 Ar/O2 plasma,R733734,Processed
-Zr(Cp2CMe2)Me2,R733735,Processed
-Hf(NEtMe)4,R733736,Processed
-GaMe3,R733737,Processed
-Ni(acac)2,R733738,Processed
-H2 Plasma,R733739,Processed
-Z(NMe2)4,R733740,Processed
-Bi(NMe2)3,R733741,Processed
-Zn,R723784,Processed
-AuCl3,R733742,Processed
-Y(EtCp)2(iPr2AMD),R733743,Processed
-Ga,R31569,Processed
-[Cu(iPrAMD)]2,R733744,Processed
-Ru(TMM)(CO)3,R733745,Processed
-Ar-P2 plasma,R733746,Processed
-SnnBu2(CH3COO)2,R733747,Processed
-Pb(tmod)2,R733748,Processed
-Tm(thd)3,R733749,Processed
-Et2Se2,R733750,Processed
-Hf(mmp)4,R733751,Processed
-Co(Cp)(CO)2,R733752,Processed
-Dy(DPDMG)3,R733753,Processed
-Y(CpBu)3,R733754,Processed
-BiCl3,R733755,Processed
-Li(thd),R733756,Processed
-Ba(iPr3Cp)2,R733757,Processed
-Gd(mmp)3-tetraglyme,R733758,Processed
-MnTp2,R733759,Processed
-Mo(thd)3,R733760,Processed
-H2O + O3,R733761,Processed
-Ni(CpEt)2,R733762,Processed
-Photons,R733763,Processed
-Ge(thd)Cl,R733764,Processed
-Nd(iPrCp)3,R733765,Processed
-MoO2(thd)2,R733766,Processed
-Dy(emd)3,R733767,Processed
-LiN(SiMe3)2,R733768,Processed
-CrO2Cl2,R733769,Processed
-RuO4,R733770,Processed
-Ni(acac)2(py)2,R733771,Processed
-Pr(iPrAMD)3,R733772,Processed
-SiCl2Me2,R733773,Processed
-BeEt2,R733774,Processed
-Hf(NMeEt)4,R733775,Processed
-Si(OMe)4,R733776,Processed
-TaBr5,R733777,Processed
-InN(SiMe3)2,R733778,Processed
-W(NtBu)2(Me3SiMe)2,R733779,Processed
-Ni(MeCp)2,R733780,Processed
-Hf(iPrFMD)2(NMe2)2,R733781,Processed
-TMP,R733782,Processed
-ZnEt2,R733783,Processed
-Hf[Î·5:Î·1-Cp(CH2)(SiMe2)NMe](NMe2)2,R733784,Processed
-La[N(SiMe3)2]3,R733785,Processed
-La(iPrCp)2(iPrAMD),R733786,Processed
-CCl3,R733787,Processed
-Hf(NMe2)2(guan-NMe2)2,R733788,Processed
-D2O,R733789,Processed
-SiH2Et2,R733790,Processed
-Co(iPrMeAMD)2,R733791,Processed
-P(OMe)3,R733792,Processed
-HF+H2O,R733793,Processed
-CH3NH2 plasma,R733794,Processed
-Ti(OiPr)3(iPr2AMD),R733795,Processed
-(Me3Ge)2DHP,R733796,Processed
-Te,R144279,Processed
-GeEt2H2,R733797,Processed
-Ge(OnBu)4,R733798,Processed
-Ti(OiPr)4,R733799,Processed
-In(iPrFMD)3,R733800,Processed
-Co2(CO)6HCâ¡CC5H11,R733801,Processed
-MoO2Cl2,R733802,Processed
-Cu(iPr2NHC)(N(SiMe3)2),R733803,Processed
-La(FMD)3,R733804,Processed
-P(OMe)3O,R733805,Processed
-[Sr(demamp)(thd)]2,R733806,Processed
-undefined,R733807,Processed
-InMe3(MeO(CH2)2NHtBu),R733808,Processed
-H2 + H2O,R733809,Processed
-CdMe2,R733810,Processed
-GaMe3(CH3OCH2CH2NHtBu),R733811,Processed
-Hf(CpMe)2(OMe)Me,R733812,Processed
-Hf(dmap)4,R733813,Processed
-Ru(CpEtMe)2,R733814,Processed
-SiH2(NEt2)2,R733815,Processed
-Sr(CpiPr)2,R733816,Processed
-Cu(thd)2,R733817,Processed
-Sn(NEtMe)4,R733818,Processed
-H2Se,R733819,Processed
-Si(OtBu)4,R733820,Processed
-ZrCp(NMe2)3,R733821,Processed
-Zr(NEtMe)2(guan-NEtMe)2,R733822,Processed
-Sc(iPrAMD)3,R733823,Processed
-H2O + O2,R733824,Processed
-Ba(CpMe5)2,R733825,Processed
-Fe(Cp)(tBuCp),R733826,Processed
-Ti(CpMe)(OMe)3,R733827,Processed
-Bi(N(SiMe3)2)3,R733828,Processed
-PO(OMe)3 plasma,R733829,Processed
-Ti(NEtMe)3(guan-NEtMe),R733830,Processed
-Lu(EtFMD)3,R733831,Processed
-VOCl3,R733832,Processed
-SnC12H28N2O2,R733833,Processed
-HâNNMeâ,R733834,Processed
-PbBr2,R733835,Processed
-Sc(MeCp)3,R733836,Processed
-YCp3,R733837,Processed
-HCOCOOH,R733838,Processed
-(tBuO)3Si,R733839,Processed
-Cu(dmamb)2,R733840,Processed
-Sn(dmamb)2,R733841,Processed
-H2 plasma,R733739,Processed
-Bis(trimethylsilyl)sulfide,R733842,Processed
-Ge(dpp-BIAN),R733843,Processed
-Mo(SiMe3Cp)(CO)2(Î·3-2-MeAllyl),R733844,Processed
-P(OSiMe3)3O,R733845,Processed
-Ru(IMBCH),R733846,Processed
-CoCp2,R733847,Processed
-GaEt2Me,R733848,Processed
-NH3,R676164,Processed
-Pt(CpMe)Me3,R733849,Processed
-Gd(iPrCp)2(iPr2AMD),R733850,Processed
-Sn(tbtp)2,R733851,Processed
-Ru(od)3,R733852,Processed
-Si(OEt)3(nPrNH2),R733853,Processed
-"Sn(N2,N3-((NtBu)CHMeCHMe(NtBu)))2",R733854,Processed
-In(iPrAMD)3,R733855,Processed
-Ni(apo)2,R733856,Processed
-"N2,H e",R733857,Processed
-Ti(EtCp)(NMe2)3,R733858,Processed
-Cr(acac)3,R733859,Processed
-SnnBu3(EtO),R733860,Processed
-AlMe3,R733861,Processed
-Te(OEt)4,R733862,Processed
-Ti(Np)4,R733863,Processed
-Ce(mmp)4,R733864,Processed
-V(iPrAMD)3,R733865,Processed
-NH3 + B2H6,R733866,Processed
-AlMe2H,R733867,Processed
-MeOH,R733868,Processed
-Ti(OMe)4,R733869,Processed
-In(acac)3,R733870,Processed
-Zr(Cp)(tBuDAD)(OiPr),R733871,Processed
-Pr(CpiPr)3,R733872,Processed
-Co(acac)3,R733873,Processed
-Y(MeCp)3,R733874,Processed
-Ti(NEtMe)4,R733875,Processed
-CoCp(CO)2,R733876,Processed
-(EtCp)WH(CO)3,R733877,Processed
-SnCl4,R733878,Processed
-iPr2Te,R733879,Processed
-InMe3 ,R733880,Processed
-H2 + N2 + NH3 e,R733881,Processed
-Lu(N(SiMe3)2)3,R733882,Processed
-Si2(NHEt)6,R733883,Processed
-NbF5,R733884,Processed
-He plasma,R733885,Processed
-MoCl5,R733886,Processed
-GeMe2H2,R733887,Processed
-Sc(EtAMD)3,R733888,Processed
-Ir(CO)3(tBu3Cyp),R733889,Processed
-Mg(sBuAMD)2,R733890,Processed
-Ti(OtBu)4,R733891,Processed
-tBuPH2,R733892,Processed
-Si(OEt)3(C3H6NH2),R733893,Processed
-EtOH,R733894,Processed
-CsOtBu,R733895,Processed
-formalin,R733896,Processed
-PO(OEt)3,R733897,Processed
-O3 + H2O2,R733898,Processed
-Ga(CpMe5),R733899,Processed
-Mn(acac)3,R733900,Processed
-Li(OtBu),R733901,Processed
-PbPh4,R733902,Processed
-N2-H2 plasma,R733903,Processed
-NaOSiMe3,R733904,Processed
-Te(tBu)2,R733905,Processed
-Ta(NEt2)3(NtBu),R733906,Processed
-TBF,R733907,Processed
-Te(SiMe3)2,R733908,Processed
-ReO3Me,R733909,Processed
-InCl,R733910,Processed
-Ge(N(SiMe3)2)2,R733911,Processed
-Ru(CpEt)(dmp),R733912,Processed
-Sb(NMe2)3,R733913,Processed
-Temperature treatment,R733914,Processed
-NiCl2(PEt3)2,R733915,Processed
-S2Me2,R733916,Processed
-Fe(iPrAMD)2,R733917,Processed
-N2 Plasma,R733918,Processed
-Ta(NEt2)5,R733919,Processed
-Ce(iPr2AMD)3,R733920,Processed
-Y(iPrFMD)3,R733921,Processed
-SrTa2(OEt)10(dmae)2,R733922,Processed
-Rh(acac)3,R733923,Processed
-Ta(OEt)4(dmae),R733924,Processed
-NaOtBu,R733925,Processed
-SiH(NHiPr)3,R733926,Processed
-Zr(MeCp)(TMEA),R733927,Processed
-OsCp2,R733928,Processed
-N2 plasma,R733918,Processed
-Gd(CpiPr)3,R733929,Processed
-Sn(Ot-Amyl)2,R733930,Processed
-H2O+ NH3 + O2,R733931,Processed
-Hf{Î·2-(iPrN)2CNEtMe}(NEtMe)3,R733932,Processed
-Hf(NEtMe)2{Î·5:Î·1-Cp(CH2)2NMe},R733933,Processed
-Ti(NMe2)3(dmap),R733934,Processed
-O2 & O2 plasma,R733935,Processed
-Ni(hfip)2,R733936,Processed
-CuCp(PEt3),R733937,Processed
-Si(OEt)4,R733938,Processed
-B(OiPr)3,R733939,Processed
-HCHO,R733940,Processed
-[Hf{Î·2-(iPrN)2CNEtMe}(NEtMe)3],R733941,Processed
-Ba(thd)2,R733942,Processed
-Hf(OtBu)4,R733943,Processed
-(CH3O)3PO,R733944,Processed
-Fe(iPr-PrAMD)2,R733945,Processed
-Hf(NMe2)4,R733946,Processed
-Cu(sBuAMD)2,R733947,Processed
-Co(tBu2DAD)2,R733948,Processed
-SbCl3,R733949,Processed
-Mg(CpEt)2,R733950,Processed
-SiCl2H2,R733951,Processed
-Ti(NEt2)4,R733952,Processed
-ZnMe(OiPr),R733953,Processed
-Mo(NtBu)2(iPrAMD)2,R733954,Processed
-Mo(tAmylN)2(tAmylNH)2,R733955,Processed
-Ti(CpMe)(OiPr)3,R733956,Processed
-Ga(Me3,R733957,Processed
-Fe(thd)3,R733958,Processed
-MoF6,R733959,Processed
-Mo(iPrCp)2H2,R733960,Processed
-SiHMe3,R733961,Processed
-O3+H2O,R733962,Processed
-(Et3Si)2Se,R733963,Processed
-Pb(OtBu)2,R733964,Processed
-O2 + H2 plasma,R733965,Processed
-Ir(CpEt)(CHD),R733966,Processed
-In(PrNMe2)Me2,R733967,Processed
-Ir(CpEt)(cod),R733968,Processed
-2-methyl-3-buten-2-ol,R733969,Processed
-Si(OnBu)4,R733970,Processed
-In(dmamp)3,R733971,Processed
-Al(NMe2)3,R733972,Processed
-Ce(thd)4,R733973,Processed
-(seco-pinene)(MeCp)Co,R733974,Processed
-Cu(tBu2NHC)(N(SiMe3)2),R733975,Processed
-BCl3,R733976,Processed
-MeHNNHâ,R733977,Processed
-Te2(n-C4H9)2,R733978,Processed
-Gd(CpMe)3,R733979,Processed
-EtSSEt,R733980,Processed
-Hf(OtBu)2(mmp)2,R733981,Processed
-MoO2(iPrAMD)2,R733982,Processed
-Controlled desorption,R733983,Processed
-TDMAT,R733984,Processed
-PO4Me3 plasma,R733985,Processed
-GeCl4,R733986,Processed
-Sb(OEt)3,R733987,Processed
-MeNH2 plasma,R733988,Processed
-Fe(MetBuCOCNtBu)2,R733989,Processed
-Et2NH,R733990,Processed
-WH2(iPrCp)2,R733991,Processed
-Er(tBuAMD)3,R733992,Processed
-Bi(dmb)3,R733993,Processed
-Ga2(NMe2)6,R733994,Processed
-TaCl5,R733995,Processed
-Sn(iPrFMD)2,R733996,Processed
-Zf(NMe2)4,R733997,Processed
-Ti(NMe2)3(CpN),R733998,Processed
-Cr(MetBuCOCNtBu)2,R733999,Processed
-Al(OiPr)3,R734000,Processed
-La(iPrFMD)3,R734001,Processed
-Y(iPr2AMD)3,R734002,Processed
-Ga(NMe2)3,R734003,Processed
-MoOCl4,R734004,Processed
-Fe(tBuAMD)2,R734005,Processed
-Cu(hfac)(vtmos),R734006,Processed
-tBuNHNH2,R734007,Processed
-H radicals,R734008,Processed
-NbCl5,R734009,Processed
-In,R592335,Processed
-AlBu3,R734010,Processed
-SiH3(NiPr2),R734011,Processed
-Fe(ipki)2,R734012,Processed
-InâGa bimetallic single precursor,R734013,Processed
-Sn(tbba),R734014,Processed
-NH4F,R734015,Processed
-HS(CH2)2SH,R734016,Processed
-SnI4,R734017,Processed
-B3N3H6,R734018,Processed
-[Ga(NMe2)3]2,R734019,Processed
-H2/N2 plasma,R734020,Processed
-B2H6,R734021,Processed
-Ta(NEtMe)2(NiPr),R734022,Processed
-Al(iPrAMD)Et2,R734023,Processed
-Ni(Cp)2,R733683,Processed
-Al(NEt2)2(C3H6NMe2),R734024,Processed
-Lu[Cp(SiMe3)]2Cl,R734025,Processed
-Zn(thd)2,R734026,Processed
-Sb(cyclo-NC2H4)3,R734027,Processed
-Hf(edpa)4,R734028,Processed
-SiCl4,R734029,Processed
-Co2(CO)8,R734030,Processed
-Pb(thd)2,R734031,Processed
-EtSeSeEt/H2 plasma,R734032,Processed
-Li(N(SiMe3)2),R734033,Processed
-Hf[N(SiMe3)2]2Cl2,R734034,Processed
-Co(CO)3NO,R734035,Processed
-MeOSi(NCO)3,R734036,Processed
- AlCl3,R734037,Processed
-AyNH2,R734038,Processed
-H2O2,R734039,Processed
-Mo(MeCp)(CO)2(NO),R734040,Processed
-Ru(chd)(ipmp),R734041,Processed
-Sn(edpa)2,R734042,Processed
-CO2 plasma,R734043,Processed
-Ce(iPrCp)2(iPr2AMD),R734044,Processed
-Er(nBuCp)3,R734045,Processed
-Co(tBuAMD)2,R734046,Processed
-Sm(thd)3,R734047,Processed
-WF6,R734048,Processed
-TmCp3,R734049,Processed
-air,R140455,Processed
-HfI4,R734050,Processed
-SbCl5,R734051,Processed
-VO(OiPr)3,R734052,Processed
-CoTp2,R734053,Processed
-Y(iPrAMD)3,R734054,Processed
-BH3(NHMe2),R734055,Processed
-Bi[N(SiMe3)2]3,R734056,Processed
-Sr(thd)2,R734057,Processed
-La(THD)3(DMEA),R734058,Processed
-InMe2(NtBu(CH2)2(CH3)2OMe),R734059,Processed
-Si(OtPe)3OH,R734060,Processed
-Ir(acac)3,R734061,Processed
-H,R57503,Processed
-Y(iPrCp)2(iPr2AMD),R734062,Processed
-Zr(NMe2)3Cp,R734063,Processed
-Co(DMOCHCOCF3)2,R734064,Processed
-Ti(NMe2)3(CpMe),R734065,Processed
-Al(OiPr)Me2,R734066,Processed
-O2,R734067,Processed
-Ce(dpdmg)3,R733270,Processed
-Cr(thd)3,R734068,Processed
-[AlNd(OiPr)6(iPrOH)]2,R734069,Processed
-POCl3,R734070,Processed
-O2+Ar,R734071,Processed
-H2O ,R676135,Processed
-Ta(OEt)5,R734072,Processed
-tBuAsH2,R734073,Processed
-Ce(CpiPr)3,R734074,Processed
-(iPrCp)2Mg,R734075,Processed
-EtAsH2,R734076,Processed
-Hf(mp)4,R734077,Processed
-Zn(eeki)2,R734078,Processed
-Ru(CpEt)(pyr),R734079,Processed
-Fe(Cp)2,R734080,Processed
-Al(iBu)3,R734081,Processed
-WCl5,R734082,Processed
-Te(SiEt3)2,R734083,Processed
-Ti(enno)(NMe2)3,R734084,Processed
-Cs(N(SiMe3)2),R734085,Processed
-Gd(dmb)3,R734086,Processed
-H2 plasma+ O2,R734087,Processed
-La(thd)3,R734088,Processed
-Hf(CpMe)(NMe2)3,R734089,Processed
-Zr(dibm)4,R734090,Processed
-RuDMBD(CO)3,R734091,Processed
-(Me2SiO)4,R734092,Processed
-GaMe2(OiPr),R734093,Processed
-DHP,R734094,Processed
-H2S or O3+H2O,R734095,Processed
-(Et3 Si)2Se,R734096,Processed
-Sr(iPr3Cp)2,R734097,Processed
-GaCl3,R734098,Processed
-O2q,R734099,Processed
-Zr(NMe2)2{Î·5:Î·1-Cp(CH2)3NMe},R734100,Processed
-Co(bepa)2,R734101,Processed
-Si(NMe2)4,R734102,Processed
-InMe3(NMe2Bu),R734103,Processed
-N(Si2H5)3,R734104,Processed
-AsH3,R734105,Processed
-Hf(CpMe2)(NMe2)3,R734106,Processed
-Ni(tBu2DAD)2,R734107,Processed
-tBuSStBu,R734108,Processed
-Sn(cyam),R734109,Processed
-Ru(EtCp)(py),R734110,Processed
-tBuNH2,R734111,Processed
-PtMe2-hexadiene,R734112,Processed
-Zr(NEtMe)4,R734113,Processed
-Ar + H2 plasma,R734114,Processed
-Ir(CpMe)(COD),R734115,Processed
-Hf(NEt2)4,R734116,Processed
-InMe3,R734117,Processed
-MeCp2ZrMe(OMe),R734118,Processed
-TMA,R659083,Processed
-(Me3Si)2Se,R734119,Processed
-Ce(thd)3phen,R734120,Processed
-Cu(dpm)2,R734121,Processed
-Mg(EtCp)2,R734122,Processed
-Lu[N(SiMe3)2]3,R734123,Processed
-N2,R668600,Processed
-Ge(NMe2)2(NHtBu(CH2)2NHtBu),R734124,Processed
-Mo(NMe2)4,R734125,Processed
-MeCpPtMe3,R734126,Processed
-NH3 + SiH4 plasma,R734127,Processed
-hydroquinone,R734128,Processed
-Hf(Cp2CMe2)Me(OMe),R734129,Processed
-"Fe(2,4-C7H11)2",R734130,Processed
-Sn(DMP)4,R734131,Processed
-InClMe2,R734132,Processed
-tBu-AllylCo-(CO)3,R734133,Processed
-Ni(dmamp)2,R734134,Processed
-Ru(EBBD),R734135,Processed
-Te(OEt)4 ,R733862,Processed
-Sn(OtBu)4,R734136,Processed
-Er(DPDMG)3,R734137,Processed
-AlCl3,R734138,Processed
-W(CO)(3-hexyne)3,R734139,Processed
-Si(NCO)4,R734140,Processed
-Sc(MeCp)2(Me2pz),R734141,Processed
-Sn(dmpa)2,R734142,Processed
-NH3 plasma,R734143,Processed
-[Pb(gem)]2,R734144,Processed
-O2 plasma ,R733295,Processed
-O2 Plasma,R733295,Processed
-Cu(acac)2,R734145,Processed
-Zr(MeAMD)4,R734146,Processed
-Er(iPrCp)3,R734147,Processed
-NO,R9328,Processed
-Ti(trhd)2(O(CMe2Et)2,R734148,Processed
-H2O+O2,R734149,Processed
-H2 + N2 plasma,R734150,Processed
-Er(NMe2CHCOtBu)3,R734151,Processed
-Mo(NMe2)2(NtBu)2,R734152,Processed
-Zr(dpm)4,R734153,Processed
-Mg(thd)2,R734154,Processed
-Zr(CpMe)2(OMe)Me,R734155,Processed
-Si2Cl3H3,R734156,Processed
-Mo(NtBu)2(NMe2)2,R734157,Processed
-Bi(CH2SiMe3)3,R734158,Processed
-Mn(thd)3,R734159,Processed
-Ca(iPr3Cp)2,R734160,Processed
-Ni(iPrAMD)2,R734161,Processed
-NiCl2(TMPDA),R734162,Processed
-B(NEtMe)3,R734163,Processed
-Ar plasma,R734164,Processed
-VO(OnPr)3,R734165,Processed
-Se(SiEt3)2,R734166,Processed
-SnHBu3,R734167,Processed
-H2O + catalyst,R734168,Processed
-Ge(NMe2)2(NHiPr(CH2)2NHiPr),R734169,Processed
-N2/H2 plasma,R734170,Processed
-H2O,R676135,Processed
-Hf(CpMe)2(mmp)Me,R734171,Processed
+Et2S2,R733211,Processed
 HI,R71245,Processed
-TDMA-Zr,R734172,Processed
-(Et3Si)2Te,R734173,Processed
-Er(CpMe),R734174,Processed
-Mg,R29445,Processed
-Pb(OAc)2,R734175,Processed
-W(NtBu)2(NMe2)2,R734176,Processed
-Ta(NiPr)(NEtMe)2               ,R734177,Processed
-Ru(CpEt)2,R734178,Processed
-CH4 plasma,R734179,Processed
-Zr(Me5Cp)(TEA),R734180,Processed
-NH3 + Ar + N2,R734181,Processed
-Sr(CpiPr3)2(Et[OMe]2),R734182,Processed
-RuCp2,R734183,Processed
-Ni(tBuAMD)2,R734184,Processed
-ZrCl2Cp2,R734185,Processed
-CoCl2(TMEDA),R734186,Processed
-NH3 photo assisted,R734187,Processed
-Se,R39195,Processed
-Cd,R155271,Processed
-ScCp3,R734188,Processed
-La(Cp)3,R734189,Processed
-La(iPrAMD)3,R734190,Processed
-(Et3Si)3Sb,R734191,Processed
-N2O,R734192,Processed
-CoCp(iPrAMD)\r\n ,R734193,Processed
-Ti(NMe2)3(guan-NMe2),R734194,Processed
-Ni(thd)2,R734195,Processed
-Ru2{Î¼2-Î·3-N(tBu)âC(H)âC(iPr)}(CO)6,R734196,Processed
+CoCp2,R733847,Processed
+LiOtBu,R733686,Processed
+Ge(thd)Cl,R733764,Processed
+Si(NMe2)4,R734102,Processed
+O2,R734067,Processed
+Fe(Cp)(tBuCp),R733826,Processed
+H2O / O3,R733284,Processed
+Co(Cp)(CO)2,R733752,Processed
+Si2H6,R733325,Processed
+Sb(SiEt3)3,R733429,Processed
+AlMe2Cl,R733563,Processed
+Nb(NtBu)(NEtMe)3,R733374,Processed
+AlMe2H,R733867,Processed
+OsCp2,R733928,Processed
+La(CpEt)3,R733557,Processed
+Ca(iPr2fAMD)2,R733528,Processed
+Co(CpMe)2,R733703,Processed
+In(thd)3,R733573,Processed
+ZrCp2Cl2,R733644,Processed
+RuCp(CpCH(Me)(NMe2)),R733407,Processed
+"O3, H2O",R733445,Processed
+Mg(thd)2,R734154,Processed
+Ti(trhd)2(O(CMe2Et)2,R734148,Processed
+In(dmamp)3,R733971,Processed
+Ru(hd)(ipmp),R733518,Processed
+Al(NEt2)3,R733730,Processed
+Zr[N(SiMe3)2]2Cl2,R733626,Processed
+B(OMe)3,R733390,Processed
+[LaAl(OiPr)6(iPrOH)]2,R733669,Processed
+Mg(iPrCp)2,R733364,Processed
+iPrOH,R733210,Processed
+Te(SiEt3)2 plasma,R733588,Processed
+TiI4,R733525,Processed
+Gd(mmp)3-tetraglyme,R733758,Processed
+ROH,R733321,Processed
+C6H8Fe(CO)3 ,R736004,Processed
+InMe3[MeO(CH2)2NHtBu],R733540,Processed
+Sn(DMP)4,R734131,Processed
+Ni(Cp)2,R733683,Processed
+(seco-pinene)(MeCp)Co,R733974,Processed
+S2Me2,R733916,Processed
+Ta(NEt2)5,R733919,Processed
+W2(NMe2)6,R733389,Processed
+MeOH,R733868,Processed
+InMe3,R734117,Processed
+Ti(OiPr)2(thd)2,R733729,Processed
+Fe(CptBu)Cp,R733308,Processed
+O3 / H2O,R733197,Processed
+Y(EtCp)2(iPr2AMD),R733743,Processed
+Gd(CpiPr)3,R733929,Processed
+Co(DMOCHCOCF3)2,R734064,Processed
+Ca(thd)2,R733551,Processed
+P(OSiMe3)3O,R733845,Processed
+Ni(EtCp)2,R733214,Processed
+Cu(PnBu3)2(acac),R733728,Processed
+Sn(iPrAMD)2,R733482,Processed
 Pb(dpm)2,R734197,Processed
+[(SiMe3)2NBi-Î¼-NSiMe3]2,R733664,Processed
+H2O plasma,R733304,Processed
+NiCp2,R733339,Processed
+CH4 plasma,R734179,Processed
+Te(GeMe3)2,R733550,Processed
+Zr(dmae)4,R733430,Processed
+Ta(NMe2)3(CMe2Et),R733193,Processed
+Si(NCO)4,R734140,Processed
+N2H4âHCl,R733240,Processed
+Pd(hfac)2,R733192,Processed
+Ta(NtBu)(NEt2)3,R733598,Processed
+TICP,R733377,Processed
+Se(SiMe3)2,R733483,Processed
+Ta(NEtMe)2(NiPr),R734022,Processed
+Zn(NMe2)4,R733413,Processed
+ CFx,R736005,Processed
+Er(thd)3,R733276,Processed
+H2S or O3+H2O,R734095,Processed
+TmCp3,R734049,Processed
+Hf(CpMe)2(mmp)Me,R734171,Processed
+Ce(iPrCp)2(iPr2AMD),R734044,Processed
+Zn(OAc)2,R733400,Processed
+CoCp(iPrAMD)\r\n ,R736006,Processed
+AyNH2,R734038,Processed
+Sn(dmamp)2,R733531,Processed
+Pb(OtBu)2,R733964,Processed
+Nb(NtBu)(NEt2)2(Cp),R733423,Processed
+undefined,R733807,Processed
+H2O + O2,R733824,Processed
+VO(OnPr)3,R734165,Processed
+BiCl3,R733755,Processed
+Zr(OiPr)2(dmae)2,R733255,Processed
+Cu(OAc)2,R733302,Processed
+MeCp2ZrMe(OMe),R734118,Processed
+Sn(iPrFMD)2,R733996,Processed
+SbCl5,R734051,Processed
+N2-H2 plasma,R733903,Processed
+BiMe3,R733566,Processed
+Ce(mmp)4,R733864,Processed
+Dy(thd)3,R733316,Processed
+Na(thd),R733417,Processed
+air,R140455,Processed
+SiH3(NsBu2),R733708,Processed
+Sb,R733396,Processed
 As,R113236,Processed
-Ba(CptBu3)2,R734198,Processed
-TaCp(NtBu)(NEt2)2,R734199,Processed
-Gd(iPrAMD)3,R734200,Processed
-FeCp(tBuCp),R734201,Processed
-H2O photo assisted,R734202,Processed
-GeCl2Â·(C4H8O2),R734203,Processed
-InCp,R734204,Processed
-CO2,R137271,Processed
-Mn2(CO)10,R734205,Processed
-Ru(Î·5-C7H7O)(Î·5-C7H9),R734206,Processed
-Cu(hfac)(dmb),R734207,Processed
-N2 + H2 plasma,R734208,Processed
-(Me2N)3Si-SiH3,R734209,Processed
-Et2 Te,R734210,Processed
-GaEt2Cl,R734211,Processed
-Ti(NMe2)4,R734212,Processed
-Ru(DMPD)2,R734213,Processed
+Ru(DMBD)(CO)3,R733283,Processed
+formalin,R733896,Processed
+Mn(thd)3,R734159,Processed
+Al(acac)3,R733733,Processed
+Hf(NEt2)4,R734116,Processed
+Ge(NMe2)2(NHtBu(CH2)2NHtBu),R734124,Processed
+MeAyTe,R733235,Processed
+[EtZn(damp)]2,R733358,Processed
+Co(iPrMeAMD)2,R733791,Processed
+Ni(CpEt)2,R733762,Processed
+MeNH2 plasma,R733988,Processed
+[Pb(gem)]2,R734144,Processed
+Li(OtBu),R733901,Processed
+Ca(iPr3Cp)2,R734160,Processed
+Hf(Cp2CMe2)Me(OMe),R734129,Processed
+Pr(mmp)3,R733318,Processed
+Ru(EBCHD),R733490,Processed
+Hf(NMeEt)4,R733775,Processed
+Sc(MeCp)2(Me2pz),R734141,Processed
+Al(mmp)3,R733628,Processed
+Ge(OnBu)4,R733798,Processed
+terephthalic acid,R733262,Processed
 ReCl5,R734214,Processed
-N(SiH3)3,R734215,Processed
-Y(thd)3,R734216,Processed
-Ta(NEt2)3NtBu,R734217,Processed
-Ga(triaz)3,R734218,Processed
-AuCl(PEt3),R734219,Processed
-CuCl2,R734220,Processed
-FeCp(EtCp),R734221,Processed
+O2 & O2 plasma,R733935,Processed
+Rh(acac)3,R733923,Processed
+Ni(acac)2(TMEDA),R733260,Processed
+Ru(EtCp)2,R733405,Processed
+InMe3(NMe2Bu),R734103,Processed
+Mg(sBuAMD)2,R733890,Processed
+Gd(iPrCp)3,R733248,Processed
+NH3 + H2O,R733206,Processed
+SiCl2H2,R733951,Processed
+Sn(NMe2)4 ,R733395,Processed
+Sn(OAc)4,R733602,Processed
+TMP,R733782,Processed
+Yb(thd)3 + Er(thd)3 ,R736007,Processed
+(SiEt3)2Te,R733403,Processed
+B(NEtMe)3,R734163,Processed
+NO2,R733420,Processed
+Si(Î·2-((NtBu)CMe2CH2(NtBu))),R733607,Processed
+N2O4,R733612,Processed
+H2O + NH3 catalyst,R733215,Processed
+AlBu3,R734010,Processed
+N2 Plasma,R733918,Processed
+ Me2Au(S2CNEt2),R736008,Processed
+Zr(Cp2CMe2)Me2,R733735,Processed
+ Gd((iPrN)2CNMe2)3,R736009,Processed
+Bi(thd)3,R733444,Processed
+Sr(thd)2,R734057,Processed
+NH3 + Et3B,R733309,Processed
+Ru(Î·5-C7H7O)(Î·5-C7H9),R734206,Processed
+Lu[Cp(SiMe3)]2Cl,R734025,Processed
+Ru(Me2pyr)2,R733668,Processed
+Se(SiiPr3)2,R733621,Processed
+Ru(CO)2(mhdk)2,R733353,Processed
+Er(tBuAMD)3,R733992,Processed
+Er(CpMe),R734174,Processed
+HCOOH,R733216,Processed
+Ce(thd)4,R733973,Processed
+HfCp(edpa)3,R733713,Processed
+[AlNd(OiPr)6(iPrOH)]2,R734069,Processed
+Ru(CpEt)(pyr),R734079,Processed
+PO(OMe)3 plasma,R733829,Processed
+Ba(thd)2,R733942,Processed
+Lu(EtFMD)3,R733831,Processed
+Bi(CH2SiMe3)3,R734158,Processed
+Ir(CpEt)(cod),R733968,Processed
+-,R736010,Processed
+CoCp(CO)2,R733876,Processed
+Ti(NMe2)4,R734212,Processed
+InMe3(MeO(CH2)2NHtBu),R733808,Processed
+Te,R144279,Processed
+Ca(hfac)2,R733501,Processed
+H2 plasma,R733739,Processed
+Zr(OtBu)4,R733451,Processed
+Zr(NEtMe)4,R734113,Processed
+FeCp2,R733221,Processed
+In(triaz)3,R733263,Processed
+Cs(N(SiMe3)2),R734085,Processed
+N(Si2H5)3,R734104,Processed
+Sn(OtBu)4,R734136,Processed
+Cu(tBu2NHC)(N(SiMe3)2),R733975,Processed
+Co(iPr2AMD)2,R733569,Processed
+InCp,R734204,Processed
+TaBr5,R733777,Processed
+Fe(iPrAMD)2,R733917,Processed
+NH3/N2 plasma,R733433,Processed
+NEt3,R733428,Processed
+Ru(thd)3,R733345,Processed
+TiCp2((iPrN)2C(NHiPr)),R733246,Processed
+HCHO,R733940,Processed
+La(THD)3(DMEA),R734058,Processed
+EtOH,R733894,Processed
+Fe(iPr-PrAMD)2,R733945,Processed
+(Me2N)3Si-SiH3,R734209,Processed
+Sr(CpiPr)2,R733816,Processed
+Al(NiPr2)2(C3H6NMe2),R733491,Processed
+Fe(MetBuCOCNtBu)2,R733989,Processed
+CCTBA,R733243,Processed
+In(N(SiMe3)2)Et2,R733651,Processed
+O2q,R734099,Processed
+Pr(CpiPr)3,R733872,Processed
+S2Et2,R733250,Processed
+N2 plasma,R733918,Processed
+Sn(dmamb)2,R733841,Processed
+Co(MeiPrCOCNtBu)2,R733272,Processed
+La(iPrAMD)3,R734190,Processed
+[Hf{Î·2-(iPrN)2CNEtMe}(NEtMe)3],R733941,Processed
+NiCl2(PEt3)2,R733915,Processed
+Ga(NMe2)3,R734003,Processed
+(BuO)3SiOH,R733519,Processed
+Nb(OEt)5,R733548,Processed

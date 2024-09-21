@@ -1,0 +1,192 @@
+process_id,process_material,process_reactanta,process_reactantb,process_reactantc,process_reactantd,reference_doi,contribution id,paper title,paper id,unused_reactants
+50,Al2O3,,,,,10.1016/j.matlet.2007.04.009,1,"Tris(dialkylamino)aluminums: Syntheses, characterization, volatility comparison and atomic layer deposition of alumina thin films",R732605,R676135
+168,TiO2,,,,,10.1149/1.3428705,1,Low Temperature Plasma-Enhanced Atomic Layer Deposition of Metal Oxide Thin Films,R732608,R733295
+169,TiO2,,,,,10.1149/1.3428705,2,Low Temperature Plasma-Enhanced Atomic Layer Deposition of Metal Oxide Thin Films,R732608,R733295
+177,TiO2,,,,,10.1149/1.3428705,3,Low Temperature Plasma-Enhanced Atomic Layer Deposition of Metal Oxide Thin Films,R732608,R733295
+250,Co,,,,,10.1063/1.2742791,1,Nitride mediated epitaxy of CoSi2 through self-interlayer-formation of plasma-enhanced atomic layer deposition Co,R732611,R734143
+485,Ru,,,,,10.1557/JMR.2004.0426,1,Atomic layer deposition of noble metals: Exploration of the low limit of the deposition temperature,R732614,R734067
+684,Ta2O5,,,,,10.1149/1.3428705,4,Low Temperature Plasma-Enhanced Atomic Layer Deposition of Metal Oxide Thin Films,R732608,R733295
+702,TaNx,,,,,10.1116/1.2345205,1,Atomic layer deposition of Ta-based thin films: Reactions of alkylamide precursor with various reactants,R732617,R676164
+704,TaNx,,,,,10.1149/1.2988651,1,Deposition of TiN and TaN by Remote Plasma ALD for Cu and Li Diffusion Barrier Applications,R732621,R733739
+706,TaNx,,,,,10.1116/1.3256227,1,"Optical emission spectroscopy as a tool for studying, optimizing, and monitoring plasma-assisted atomic layer deposition processes",R732624,R668600
+749,Pt,,,,,10.1149/1.3125876,1,Remote Plasma ALD of Platinum and Platinum Oxide Films,R732627,R733295
+25,Al2O3,,,,,10.1063/1.1590743,1,GaAs metal–oxide–semiconductor field-effect transistor with nanometer-thin dielectric grown by atomic layer deposition,R732631,R676135
+25,Al2O3,,,,,10.1149/1.2737629,1,Plasma and Thermal ALD of Al[sub 2]O[sub 3] in a Commercial 200 mm ALD Reactor,R732634,R676135
+25,Al2O3,,,,,10.1063/1.2828338,1,Atomic-layer-deposited nanostructures for graphene-based nanoelectronics,R732637,R676135
+25,Al2O3,,,,,10.1063/1.3115144,1,A hybrid encapsulation method for organic electronics,R732640,R676135
+25,Al2O3,,,,,10.1149/1.3076143,1,Thermal and Plasma Enhanced Atomic Layer Deposition of Al[sub 2]O[sub 3] on GaAs Substrates,R732643,R676135
+25,Al2O3,,,,,10.1063/1.3399776,1,Origin and passivation of fixed charge in atomic layer deposited aluminum oxide gate insulators on chemically treated InGaAs substrates,R732646,R676135
+25,Al2O3,,,,,10.1149/1.3428705,5,Low Temperature Plasma-Enhanced Atomic Layer Deposition of Metal Oxide Thin Films,R732608,R676135
+25,Al2O3,,,,,10.1063/1.3505311,1,Very low surface recombination velocities on p- and n-type c-Si by ultrafast spatial atomic layer deposition of aluminum oxide,R732649,R676135
+29,Al2O3,,,,,10.1149/1.2737629,2,Plasma and Thermal ALD of Al[sub 2]O[sub 3] in a Commercial 200 mm ALD Reactor,R732634,R733295
+29,Al2O3,,,,,10.1149/1.3076143,2,Thermal and Plasma Enhanced Atomic Layer Deposition of Al[sub 2]O[sub 3] on GaAs Substrates,R732643,R733295
+29,Al2O3,,,,,10.1149/1.3428705,6,Low Temperature Plasma-Enhanced Atomic Layer Deposition of Metal Oxide Thin Films,R732608,R733295
+29,Al2O3,,,,,10.1063/1.2240736,1,Ultralow surface recombination of c-Si substrates passivated by plasma-assisted atomic layer deposited Al2O3,R732652,R733295
+29,Al2O3,,,,,10.1063/1.2357886,1,<i>In situ</i> reaction mechanism studies of plasma-assisted atomic layer deposition of Al2O3,R732655,R733295
+29,Al2O3,,,,,10.1063/1.2940598,1,Surface chemistry of plasma-assisted atomic layer deposition of Al2O3 studied by infrared spectroscopy,R732658,R733295
+29,Al2O3,,,,,10.1063/1.2924406,1,Reaction mechanisms during plasma-assisted atomic layer deposition of metal oxides: A case study for Al2O3,R732661,R733295
+29,Al2O3,,,,,10.1063/1.2963707,1,Silicon surface passivation by atomic layer deposited Al2O3,R732664,R733295
+29,Al2O3,,,,,10.1063/1.3267299,1,Plasma-assisted atomic layer deposition of TiN/Al2O3 stacks for metal-oxide-semiconductor capacitor applications,R732667,R733295
+29,Al2O3,,,,,10.1116/1.3256227,2,"Optical emission spectroscopy as a tool for studying, optimizing, and monitoring plasma-assisted atomic layer deposition processes",R732624,R733295
+48,Al2O3,,,,,10.1016/j.matlet.2007.04.009,2,"Tris(dialkylamino)aluminums: Syntheses, characterization, volatility comparison and atomic layer deposition of alumina thin films",R732605,R676135
+160,TiO2,,,,,10.1116/1.2359728,1,Area selective atomic layer deposition of titanium dioxide: Effect of precursor chemistry,R732670,R676135
+173,TiO2,,,,,10.1116/1.2359728,2,Area selective atomic layer deposition of titanium dioxide: Effect of precursor chemistry,R732670,R676135
+187,TiO2,,,,,10.1149/1.2186427,1,Thermal and Plasma-Enhanced ALD of Ta and Ti Oxide Thin Films from Alkylamide Precursors,R732673,R676135
+310,ZnO,,,,,10.1063/1.2745226,1,ZnO nanoparticle growth on single-walled carbon nanotubes by atomic layer deposition and a consequent lifetime elongation of nanotube field emission,R732676,R676135
+472,Ru,,,,,10.1557/JMR.2004.0426,2,Atomic layer deposition of noble metals: Exploration of the low limit of the deposition temperature,R732614,R734067
+506,CdTe,,,,,10.1103/PhysRevB.69.165303,1,Kinetic model of II-VI(001) semiconductor surfaces: Growth rates in atomic layer epitaxy,R732679,R144279
+601,HfO2,,,,,10.1063/1.2828338,2,Atomic-layer-deposited nanostructures for graphene-based nanoelectronics,R732637,R676135
+601,HfO2,,,,,10.1063/1.2961003,1,S passivation of GaAs and band bending reduction upon atomic layer deposition of HfO2/Al2O3 nanolaminates,R732682,R676135
+601,HfO2,,,,,10.1063/1.3021374,1,Energy barriers at interfaces of (100)GaAs with atomic layer deposited Al2O3 and HfO2,R732685,R676135
+601,HfO2,,,,,10.1063/1.3357283,1,Resistance switching in HfO2 metal-insulator-metal devices,R732688,R676135
+638,HfO2,,,,,10.1063/1.3021374,2,Energy barriers at interfaces of (100)GaAs with atomic layer deposited Al2O3 and HfO2,R732685,R676135
+638,HfO2,,,,,10.1063/1.2829586,1,<i>In situ</i> H2S passivation of In0.53Ga0.47As∕InP metal-oxide-semiconductor capacitors with atomic-layer deposited HfO2 gate dielectric,R732691,R676135
+638,HfO2,,,,,10.1063/1.3269577,1,Low-voltage pentacene organic field-effect transistors with high-κ HfO2 gate dielectrics and high stability under bias stress,R732694,R676135
+638,HfO2,,,,,10.1063/1.3243234,1,"Structural analysis, elemental profiling, and electrical characterization of HfO2 thin films deposited on In0.53Ga0.47As surfaces by atomic layer deposition",R732697,R676135
+641,HfO2,,,,,10.1149/1.2840616,1,Electrical Properties of Atomic Layer Deposition HfO[sub 2] and HfO[sub x]N[sub y] on Si Substrates with Various Crystal Orientations,R732700,R733295
+642,HfO2,,,,,10.1149/1.2995832,1,"Chemical Bonding, Interfaces, and Defects in Hafnium Oxide∕Germanium Oxynitride Gate Stacks on Ge(100)",R732703,R676135
+648,HfO2,,,,,10.1063/1.2405387,1,Interfacial self-cleaning in atomic layer deposition of HfO2 gate dielectric on In0.15Ga0.85As,R732706
+648,HfO2,,,,,10.1063/1.2883956,1,GaAs interfacial self-cleaning by atomic layer deposition,R732709,R676135
+650,HfO2,,,,,10.1116/1.2753846,1,Deposition of TiN and HfO2 in a commercial 200mm remote plasma atomic layer deposition reactor,R732712,R733295
+683,Ta2O5,,,,,10.1149/1.2186427,2,Thermal and Plasma-Enhanced ALD of Ta and Ti Oxide Thin Films from Alkylamide Precursors,R732673,R676135
+683,Ta2O5,,,,,10.1116/1.2345205,2,Atomic layer deposition of Ta-based thin films: Reactions of alkylamide precursor with various reactants,R732617,R676135
+683,Ta2O5,,,,,10.1063/1.2472189,1,Electrical property improvements of high-k gate oxide by <i>in situ</i> nitrogen incorporation during atomic layer deposition,R732715,R676135
+684,Ta2O5,,,,,10.1116/1.3256227,3,"Optical emission spectroscopy as a tool for studying, optimizing, and monitoring plasma-assisted atomic layer deposition processes",R732624,R733295
+684,Ta2O5,,,,,10.1149/1.2186427,3,Thermal and Plasma-Enhanced ALD of Ta and Ti Oxide Thin Films from Alkylamide Precursors,R732673,R733295
+684,Ta2O5,,,,,10.1116/1.2345205,3,Atomic layer deposition of Ta-based thin films: Reactions of alkylamide precursor with various reactants,R732617,R733295
+704,TaNx,,,,,10.1116/1.2345205,4,Atomic layer deposition of Ta-based thin films: Reactions of alkylamide precursor with various reactants,R732617,R733739
+704,TaNx,,,,,10.1063/1.2798598,1,Synthesis and <i>in situ</i> characterization of low-resistivity TaNx films by remote plasma atomic layer deposition,R732718,R733739
+705,TaNx,,,,,10.1063/1.2798598,2,Synthesis and <i>in situ</i> characterization of low-resistivity TaNx films by remote plasma atomic layer deposition,R732718,R733918
+748,Pt,,,,,10.1557/JMR.2004.0426,3,Atomic layer deposition of noble metals: Exploration of the low limit of the deposition temperature,R732614,R734067
+748,Pt,,,,,10.1063/1.3176946,1,Surface reactions during atomic layer deposition of Pt derived from gas phase infrared spectroscopy,R732721,R734067
+748,Pt,,,,,10.1149/1.3125876,2,Remote Plasma ALD of Platinum and Platinum Oxide Films,R732627,R734067
+808,ReNx,,,,,10.1002/anie.201806985,1,Rhenium Metal and Rhenium Nitride Thin Films Grown by Atomic Layer Deposition,R732724,R676164
+817,As2S3,,,,,10.1116/1.4968202,1,As2S3 thin films deposited by atomic layer deposition,R732727,R733349
+819,PbI2,,,,,10.1021/acs.chemmater.8b04969,1,Atomic Layer Deposition of PbI<sub>2</sub> Thin Films,R732730,R734017
+837,MoS2,,,,,10.1039/C8NR02339E,1,"Low-temperature plasma-enhanced atomic layer deposition of 2-D MoS<sub>2</sub>: large area, thickness control and tuneable morphology",R732733,R733336
+838,ZnO:H,,,,,10.1016/j.solmat.2017.05.040,1,Atomic layer deposition of high-mobility hydrogen-doped zinc oxide,R732736,"R676135, R733739"
+841,Li2CO3,,,,,10.1039/c7ra07722j,1,Plasma-assisted and thermal atomic layer deposition of electrochemically active Li<sub>2</sub>CO<sub>3</sub>,R732739,"R676135, R137271"
+1,LiOH,,,,,10.1039/c7ra07722j,2,Plasma-assisted and thermal atomic layer deposition of electrochemically active Li<sub>2</sub>CO<sub>3</sub>,R732739,R676135
+859,Co3O4,,,,,10.1021/acs.chemmater.6b05346,1,Low-Temperature Atomic Layer Deposition of Cobalt Oxide as an Effective Catalyst for Photoelectrochemical Water-Splitting Devices,R732742,R733227
+860,CoO/Co(OH)2,,,,,10.1116/1.5066638,1,Atomic layer deposition of cobalt(II) oxide thin films from Co(BTSA)2(THF) and H2O,R732745,R676135
+876,MoO3,,,,,10.1016/j.mtchem.2018.04.005,1,Atomic layer deposition of crystalline molybdenum oxide thin films and phase control by post-deposition annealing,R732748,R733227
+877,MoO3,,,,,10.1021/acs.chemmater.8b04129,1,"Atomic Layer Deposition of Molybdenum and Tungsten Oxide Thin Films Using Heteroleptic Imido-Amidinato Precursors: Process Development, Film Characterization, and Gas Sensing Properties",R732752,R733227
+879,TiN,,,,,10.1149/1.2344843,1,Low-Temperature Deposition of TiN by Plasma-Assisted Atomic Layer Deposition,R732755,R734150
+879,TiN,,,,,10.1116/1.2198846,1,Growth mechanism and diffusion barrier property of plasma-enhanced atomic layer deposition Ti–Si–N thin films,R732758,R734150
+879,TiN,,,,,10.1063/1.2214438,1,<i>In situ</i> spectroscopic ellipsometry study on the growth of ultrathin TiN films by plasma-assisted atomic layer deposition,R732761,R734150
+879,TiN,,,,,10.1116/1.2753846,2,Deposition of TiN and HfO2 in a commercial 200mm remote plasma atomic layer deposition reactor,R732712,R734150
+879,TiN,,,,,10.1149/1.2988651,2,Deposition of TiN and TaN by Remote Plasma ALD for Cu and Li Diffusion Barrier Applications,R732621,R734150
+879,TiN,,,,,10.1063/1.3267299,2,Plasma-assisted atomic layer deposition of TiN/Al2O3 stacks for metal-oxide-semiconductor capacitor applications,R732667,R734150
+1890,TaZrxOy,,,,,10.1063/1.4975928,1,Atomic layer deposition and properties of mixed Ta2O5 and ZrO2 films,R732764,"R733234, R733227"
+1903,TaZrxOy,,,,,10.1063/1.4975928,2,Atomic layer deposition and properties of mixed Ta2O5 and ZrO2 films,R732764,R733234
+1950,ZnSnxOy,,,,,10.1063/1.4811788,1,Theoretical and experimental studies on the electronic structure of crystalline and amorphous ZnSnO3 thin films,R732767,"R733833, R733227"
+2018,LaAlxOy,,,,,10.1149/1.2981628,1,Effects of Low Temperature O2 Treatment on the Electrical Characteristics of Amorphous LaAlO3 Films by Atomic Layer Deposition,R732770,"R733861, R676135"
+2055,LaScxOy,,,,,10.1149/1.3074314,1,Atomic Layer Deposition of Lanthanum-Based Ternary Oxides,R732773,"R733888, R676135"
+2063,LaLuxOy,,,,,10.1149/1.3074314,2,Atomic Layer Deposition of Lanthanum-Based Ternary Oxides,R732773,"R733831, R676135"
+2089,LiCoxOy,,,,,10.1149/2.011305jes,1,Atomic Layer Deposition of LiCoO<sub>2</sub>Thin-Film Electrodes for All-Solid-State Li-Ion Micro-Batteries,R732776,"R733847, R733295"
+2115,LaYxOy,,,,,10.1149/1.3074314,3,Atomic Layer Deposition of Lanthanum-Based Ternary Oxides,R732773,"R734054, R676135"
+2132,AlPxOy,,,,,10.1116/1.4936390,1,Enhancing of catalytic properties of vanadia via surface doping with phosphorus using atomic layer deposition,R732779,"R733545, R676135"
+2146,AlPxOy,,,,,10.1021/cm503587w,1,Atomic Layer Deposition of Aluminum Phosphate Based on the Plasma Polymerization of Trimethyl Phosphate,R732782,"R733829, R733295"
+2198,PbSexTey,,,,,10.1149/2.014406jss,1,Atomic Layer Deposition of Nanolaminate Structures of Alternating PbTe and PbSe Thermoelectric Films,R732785,"R734166, R734083"
+2253,ZnOxBy,,,,,10.1039/C4TC02707H,1,Atomic layer deposition of B-doped ZnO using triisopropyl borate as the boron precursor and comparison with Al-doped ZnO,R732789,"R676135, R733939"
+869,MoO3,,,,,10.1007/s00339-015-9280-3,1,Plasma-enhanced atomic-layer-deposited MoO x emitters for silicon heterojunction solar cells,R732792,R733295
+803,MoS2,,,,,10.1038/srep18754,1,Self-Limiting Layer Synthesis of Transition Metal Dichalcogenides,R732796,R733349
+2374,MoS2,,,,,10.1002/admi.201700123,1,Atomic Layer Deposition of Crystalline MoS<sub>2</sub> Thin Films: New Molybdenum Precursor for Low‐Temperature Film Growth,R732799,R733349
+2397,Ni,,,,,10.1149/1.3504196,1,Atomic Layer Deposition of Ni Thin Films and Application to Area-Selective Deposition,R732802,R676164
+2406,Cu,,,,,10.1021/cm400215q,1,Deposition of Copper by Plasma-Enhanced Atomic Layer Deposition Using a Novel N-Heterocyclic Carbene Precursor,R732805,R733739
+2430,In2O3:H,,,,,10.1021/acsami.5b04420,1,Electron Scattering and Doping Mechanisms in Solid-Phase-Crystallized In<sub>2</sub>O<sub>3</sub>:H Prepared by Atomic Layer Deposition,R732808,"R676135, R734067"
+2430,In2O3:H,,,,,10.1063/1.4962008,1,On the solid phase crystallization of In2O3:H transparent conductive oxide films prepared by atomic layer deposition,R732811,"R676135, R734067"
+2398,Co3O4,,,,,10.1149/1.3552616,1,Remote Plasma Atomic Layer Deposition of Co3O4 Thin Films,R732814,R733295
+2463,WS2,,,,,10.1021/acs.chemmater.6b05214,1,"Plasma-Enhanced Atomic Layer Deposition of Two-Dimensional WS<sub>2</sub> from WF<sub>6</sub>, H<sub>2</sub> Plasma, and H<sub>2</sub>S",R732817,"R733739, R733349"
+234,MnOx,,,,,10.1021/acs.jpcc.9b03039,1,Intercalation of Lithium Ions from Gaseous Precursors into β-MnO<sub>2</sub> Thin Films Deposited by Atomic Layer Deposition,R732820,R733227
+2464,LiMnxOy,,,,,10.1021/acs.jpcc.9b03039,2,Intercalation of Lithium Ions from Gaseous Precursors into β-MnO<sub>2</sub> Thin Films Deposited by Atomic Layer Deposition,R732820,"R733227, R733686, R676135"
+2468,Nb2O5,,,,,10.1116/1.5034097,1,Comparison of thermal and plasma-enhanced atomic layer deposition of niobium oxide thin films,R732823,R733295
+2469,Nb2O5,,,,,10.1116/1.5034097,2,Comparison of thermal and plasma-enhanced atomic layer deposition of niobium oxide thin films,R732823,R676135
+2478,Si3N4,,,,,10.1021/acsami.5b06833,1,Atomic Layer Deposition of Silicon Nitride from Bis(<i>tert</i>-butylamino)silane and N<sub>2</sub> Plasma,R732826,R733918
+2481,Si3N4,,,,,10.1021/acsami.6b12267,1,Atomic Layer Deposition of Wet-Etch Resistant Silicon Nitride Using Di(<i>sec</i>-butylamino)silane and N<sub>2</sub>Plasma on Planar and 3D Substrate Topographies,R732829,R733918
+2478,Si3N4,,,,,10.1063/1.4926366,1,Redeposition in plasma-assisted atomic layer deposition: Silicon nitride film quality ruled by the gas residence time,R732832,R733918
+2482,WS2,,,,,10.1021/acs.chemmater.9b01008,1,Edge-Site Nanoengineering of WS<sub>2</sub> by Low-Temperature Plasma-Enhanced Atomic Layer Deposition for Electrocatalytic Hydrogen Evolution,R732835,R733336
+2485,Cu2O,,,,,10.1021/acsomega.9b01351,1,Atomic Layer Deposition of Photoconductive Cu<sub>2</sub>O Thin Films,R732838,R676135
+2487,GaSx,,,,,10.1116/1.5079553,1,Plasma enhanced atomic layer deposition of gallium sulfide thin films,R732841,R733336
+2494,SnS2,,,,,10.1002/smll.201800547,1,Low‐Temperature Wafer‐Scale Deposition of Continuous 2D SnS<sub>2</sub> Films,R732844,R733349
+2495,SnS,,,,,10.1002/aenm.201100330,1,Atomic Layer Deposition of Tin Monosulfide Thin Films,R732847,R733349
+2523,SnO,,,,,10.1116/1.4984279,1,Atomic layer deposition of tin oxide thin films from bis[bis(trimethylsilyl)amino]tin(II) with ozone and water,R732850,R676135
+2524,SnSixOy,,,,,10.1116/1.4984279,2,Atomic layer deposition of tin oxide thin films from bis[bis(trimethylsilyl)amino]tin(II) with ozone and water,R732850,R733227
+2555,WS2,,,,,10.1116/1.5074153,1,Crystalline tungsten sulfide thin films by atomic layer deposition and mild annealing,R732853,R733349
+2562,WO3,,,,,10.1016/j.egypro.2014.07.321,1,Atomic Layer Deposition of Tungsten Oxide for Solar Cell Application,R732856,R733227
+2568,Au,,,,,10.1021/acsami.9b10848,1,Plasma-Enhanced Atomic Layer Deposition of Nanostructured Gold Near Room Temperature,R732859,R733739
+2600,NiO,,,,,10.1039/C9TC04282B,1,Plasma-assisted atomic layer deposition of nickel oxide as hole transport layer for hybrid perovskite solar cells,R732862,R733295
+2501,SnO2,,,,,10.1116/1.5015967,1,In-system photoelectron spectroscopy study of tin oxide layers produced from tetrakis(dimethylamino)tin by plasma enhanced atomic layer deposition,R732865,R733295
+2623,WO3,,,,,10.1021/acs.chemmater.8b04129,2,"Atomic Layer Deposition of Molybdenum and Tungsten Oxide Thin Films Using Heteroleptic Imido-Amidinato Precursors: Process Development, Film Characterization, and Gas Sensing Properties",R732752,R733227
+2638,Ga2O3,,,,,10.1116/1.4758782,1,Low temperature deposition of Ga2O3 thin films using trimethylgallium and oxygen plasma,R732868,R733295
+810,ReS2,,,,,10.1088/2053-1583/ab4c09,1,Van der Waals epitaxy of continuous thin films of 2D materials using atomic layer deposition in low temperature and low vacuum conditions,R732871,R733349
+819,PbI2,,,,,10.1088/2053-1583/ab4c09,2,Van der Waals epitaxy of continuous thin films of 2D materials using atomic layer deposition in low temperature and low vacuum conditions,R732871,R734017
+2374,MoS2,,,,,10.1088/2053-1583/ab4c09,3,Van der Waals epitaxy of continuous thin films of 2D materials using atomic layer deposition in low temperature and low vacuum conditions,R732871,R733349
+2494,SnS2,,,,,10.1088/2053-1583/ab4c09,4,Van der Waals epitaxy of continuous thin films of 2D materials using atomic layer deposition in low temperature and low vacuum conditions,R732871,R733349
+2553,ZrS2,,,,,10.1088/2053-1583/ab4c09,5,Van der Waals epitaxy of continuous thin films of 2D materials using atomic layer deposition in low temperature and low vacuum conditions,R732871,R733349
+2554,HfS2,,,,,10.1088/2053-1583/ab4c09,6,Van der Waals epitaxy of continuous thin films of 2D materials using atomic layer deposition in low temperature and low vacuum conditions,R732871,R733349
+2666,Ag,,,,,10.1016/j.apsusc.2016.11.192,1,The influence of tertiary butyl hydrazine as a co-reactant on the atomic layer deposition of silver,R732874,R734007
+501,Ag,,,,,10.1016/j.apsusc.2016.11.192,2,The influence of tertiary butyl hydrazine as a co-reactant on the atomic layer deposition of silver,R732874,R733281
+2701,La2O3,,,,,10.1016/j.tsf.2018.06.011,1,Atomic layer deposition of lanthanum oxide with heteroleptic cyclopentadienyl-amidinate lanthanum precursor - Effect of the oxygen source on the film growth and properties,R732877,R676135
+2702,La2O3,,,,,10.1016/j.tsf.2018.06.011,2,Atomic layer deposition of lanthanum oxide with heteroleptic cyclopentadienyl-amidinate lanthanum precursor - Effect of the oxygen source on the film growth and properties,R732877,R733227
+2703,La2O3,,,,,10.1016/j.tsf.2018.06.011,3,Atomic layer deposition of lanthanum oxide with heteroleptic cyclopentadienyl-amidinate lanthanum precursor - Effect of the oxygen source on the film growth and properties,R732877,"R676135, R733227"
+2704,La2O3,,,,,10.1016/j.tsf.2018.06.011,4,Atomic layer deposition of lanthanum oxide with heteroleptic cyclopentadienyl-amidinate lanthanum precursor - Effect of the oxygen source on the film growth and properties,R732877,R733894
+2705,ZrO2,,,,,10.1116/1.5079539,1,Comparative study on the use of novel heteroleptic cyclopentadienyl-based zirconium precursors with H2O and O3 for atomic layer deposition of ZrO2,R732880,R676135
+2706,ZrO2,,,,,10.1116/1.5079539,2,Comparative study on the use of novel heteroleptic cyclopentadienyl-based zirconium precursors with H2O and O3 for atomic layer deposition of ZrO2,R732880,R733227
+2707,ZrO2,,,,,10.1116/1.5079539,3,Comparative study on the use of novel heteroleptic cyclopentadienyl-based zirconium precursors with H2O and O3 for atomic layer deposition of ZrO2,R732880,R676135
+2708,ZrO2,,,,,10.1116/1.5079539,4,Comparative study on the use of novel heteroleptic cyclopentadienyl-based zirconium precursors with H2O and O3 for atomic layer deposition of ZrO2,R732880,R733227
+2709,ZrO2,,,,,10.1116/1.5079539,5,Comparative study on the use of novel heteroleptic cyclopentadienyl-based zirconium precursors with H2O and O3 for atomic layer deposition of ZrO2,R732880,R676135
+2710,ZrO2,,,,,10.1116/1.5079539,6,Comparative study on the use of novel heteroleptic cyclopentadienyl-based zirconium precursors with H2O and O3 for atomic layer deposition of ZrO2,R732880,R733227
+2772,BiOCl,,,,,10.1016/j.jmmm.2019.166167,1,Behavior of nanocomposite consisting of manganese ferrite particles and atomic layer deposited bismuth oxide chloride film,R732883,R733227
+2790,GaN,,,,,10.1116/1.3664102,1,Atomic layer deposition of GaN at low temperatures,R732887,R734143
+2799,Y2O3,,,,,10.1021/acsami.9b18412,1,Thermal and Plasma-Enhanced Atomic Layer Deposition of Yttrium Oxide Films and the Properties of Water Wettability,R732890,R676135
+2800,Y2O3,,,,,10.1021/acsami.9b18412,2,Thermal and Plasma-Enhanced Atomic Layer Deposition of Yttrium Oxide Films and the Properties of Water Wettability,R732890,R733304
+2801,Y2O3,,,,,10.1021/acsami.9b18412,3,Thermal and Plasma-Enhanced Atomic Layer Deposition of Yttrium Oxide Films and the Properties of Water Wettability,R732890,R733295
+2802,YOxSy,,,,,10.3390/ma13010093,1,Control of Eu Oxidation State in Y2O3−xSx:Eu Thin-Film Phosphors Prepared by Atomic Layer Deposition: A Structural and Photoluminescence Study,R732893,"R733349, R676135"
+2803,YOxSyEuz,,,,,10.3390/ma13010093,2,Control of Eu Oxidation State in Y2O3−xSx:Eu Thin-Film Phosphors Prepared by Atomic Layer Deposition: A Structural and Photoluminescence Study,R732893,"R733349, R733289, R734095"
+2834,CoPxOy,,,,,10.1116/1.5143896,1,"Atomic layer deposition of cobalt phosphate from cobaltocene, trimethylphosphate, and O2 plasma",R732896,"R733944, R733295"
+2835,AlPxOy,,,,,10.1021/acs.jpcc.0c00301,1,"Atomic Layer Deposition of Aluminum Phosphate Using AlMe<sub>3</sub>, PO(OMe)<sub>3</sub>, and O<sub>2</sub> Plasma: Film Growth and Surface Reactions",R732899,"R733479, R733295"
+2878,TiO2,,,,,10.1149/2.024202esl,1,Substrate Biasing during Plasma-Assisted ALD for Crystalline Phase-Control of TiO2 Thin Films,R732902,R733295
+2901,HfO2,,,,,10.1116/1.4972210,1,Atomic layer deposition of HfO2 using HfCp(NMe2)3 and O2 plasma,R732905,R733295
+2972,CoPx,Co(AMD)2,PH3 plasma,H2 plasma,,10.1002/anie.202002280,1,Atomic Layer Deposition of Cobalt Phosphide for Efficient Water Splitting,R732911,"R733522, R733739"
+2494,SnS2,Sn(OAc)4,H2S,,,10.1002/admi.202001046,1,Controlling Atomic Layer Deposition of 2D Semiconductor SnS<sub>2</sub> by the Choice of Substrate,R732914,R733349
+3003,PbS,Pb(N(SiMe3)2)2,H2S,,,10.1021/acs.chemmater.0c01887,1,Atomic Layer Deposition of PbS Thin Films at Low Temperatures,R732920,R733349
+3004,PbS,Pb(dbda),H2S,,,10.1021/acs.chemmater.0c01887,2,Atomic Layer Deposition of PbS Thin Films at Low Temperatures,R732920,R733349
+3006,Al:MoS2,Al(CH3)3,Mo(NMe2)2(NtBu)2,H2S plasma,,10.1021/acsanm.0c02167,1,Atomic Layer Deposition of Al-Doped MoS<sub>2</sub>: Synthesizing a p-type 2D Semiconductor with Tunable Carrier Density,R732923,"R734152, R733336"
+2834,CoPxOy,CoCp2,(CH3O)3PO,O2 plasma,,10.1016/j.elecom.2018.11.021,1,Atomic layer deposition of cobalt phosphate thin films for the oxygen evolution reaction,R732926,"R733944, R733295"
+3035,NbSixOy,Nb(OEt)5,Si2(NHEt)6,O3,,10.1088/1361-6528/ab6fd6,1,Silicon oxide-niobium oxide mixture films and nanolaminates grown by atomic layer deposition from niobium pentaethoxide and hexakis(ethylamino) disilane,R732929,"R733883, R733227"
+3039,Nb2O5,Nb(OEt)5,O3,,,10.1088/1361-6528/ab6fd6,2,Silicon oxide-niobium oxide mixture films and nanolaminates grown by atomic layer deposition from niobium pentaethoxide and hexakis(ethylamino) disilane,R732929,R733227
+3040,FeOx,FeCl3,O3,,,10.1116/6.0000212,1,Magnetic properties and resistive switching in mixture films and nanolaminates consisting of iron and silicon oxides grown by atomic layer deposition,R732932,R733227
+3041,FeSixOy,FeCl3,Si2(NHEt)6,O3,,10.1116/6.0000212,2,Magnetic properties and resistive switching in mixture films and nanolaminates consisting of iron and silicon oxides grown by atomic layer deposition,R732932,"R733883, R733227"
+3068,NbSx,Nb(NtBu)(NEt2)3,H2S,,,10.1021/acsanm.0c02820,1,Conformal Growth of Nanometer-Thick Transition Metal Dichalcogenide TiS<i><sub>x</sub></i>-NbS<i><sub>x</sub></i> Heterostructures over 3D Substrates by Atomic Layer Deposition: Implications for Device Fabrication,R732935,R733349
+3071,Ru,Ru(EBCHD),O2,H2,,10.1116/6.0000434,1,Atomic layer deposition of ruthenium using an ABC-type process: Role of oxygen exposure during nucleation,R732938,"R734067, R733357"
+190,TiO2,Ti(NMe2)4,O2 plasma,,,10.1021/acsami.8b00183,1,Tuning Material Properties of Oxides and Nitrides by Substrate Biasing during Plasma-Enhanced Atomic Layer Deposition on Planar and 3D Substrate Topographies,R732941,R733295
+3109,TbF3,Tb(thd)3,TiF4,,,10.1116/6.0000790,1,Atomic layer deposition of TbF3 thin films,R732944,R733637
+250,Co,CoCp2,NH3 plasma,,,10.1021/acs.jpcc.8b06342,1,"Atomic Layer Deposition of Cobalt Using H<sub>2</sub>-, N<sub>2</sub>-, and NH<sub>3</sub>-Based Plasmas: On the Role of the Co-reactant",R732950,R734143
+2403,Co,CoCp2,N2/H2 plasma,,,10.1021/acs.jpcc.8b06342,2,"Atomic Layer Deposition of Cobalt Using H<sub>2</sub>-, N<sub>2</sub>-, and NH<sub>3</sub>-Based Plasmas: On the Role of the Co-reactant",R732950,R734170
+3141,B2O3,B(NMe2)3,O2 plasma,,,10.1116/1.4917552,1,Use of B2O3 films grown by plasma-assisted atomic layer deposition for shallow boron doping in silicon,R732953,R733295
+866,WO3,W(CO)6,H2O,,,10.1149/2.0241509jss,1,Nanomechanical and Morphological Characterization of Tungsten Trioxide (WO<sub>3</sub>) Thin Films Grown by Atomic Layer Deposition,R732956,R676135
+3197,Li4Ti5O12,LiN(SiMe3)2,Ti(NMe2)4,H2O,,10.1002/smll.202102635,1,Atomic Layer Deposition of Textured Li<sub>4</sub>Ti<sub>5</sub>O<sub>12</sub>: A High‐Power and Long‐Cycle Life Anode for Lithium‐Ion Thin‐Film Batteries,R732959,"R734212, R676135"
+3234,GdF3,Gd(thd)3,NH4F,,,10.1116/6.0001629,1,Atomic layer deposition of GdF3 thin films,R732962,R734015
+739,Ir,Ir(acac)3,O2,,,10.3390/coatings11020173,1,Influence of Substrate Materials on Nucleation and Properties of Iridium Thin Films Grown by ALD,R732966,R734067
+3249,PtCoxOy,Pt(CpMe)Me3,Co(tBuAMD)2,O2 plasma,,10.1002/admi.202200013,1,Atomic Layer Deposition of the Conductive Delafossite PtCoO<sub>2</sub>,R732970,"R734046, R733295"
+2286,LiPxOyNz,LiOtBu,PO(OMe)3,H2O,N2 plasma,10.1149/2.1191906jes,1,Plasma-Assisted ALD of LiPO(N) for Solid State Batteries,R732973,"R733479, R676135, R733918"
+3275,CsI,Cs(N(SiMe3)2),SnI4,,,10.1021/acs.chemmater.2c01202,1,Atomic Layer Deposition of CsI and CsPbI<sub>3</sub>,R732976,R734017
+3276,CsPbI3,Cs(N(SiMe3)2),Pb(N(SiMe3)2)2,SnI4,,10.1021/acs.chemmater.2c01202,2,Atomic Layer Deposition of CsI and CsPbI<sub>3</sub>,R732976,"R733639, R734017"
+3280,CoO,Co(N(SiMe3)2)2(THF),H2O,,,10.1116/1.5066638,1,Atomic layer deposition of cobalt(II) oxide thin films from Co(BTSA)2(THF) and H2O,R732745
+3283,MoS2,C7H8Mo(CO)3,H2S,,,10.1002/admi.202200643,1,Atomic Layer Deposition of MoS<sub>2</sub> Decorated TiO<sub>2</sub> Nanotubes for Photoelectrochemical Water Splitting,R732982,R733349
+3351,ZnCoxOy,ZnEt2,CoCp2,H2O,O3,10.1021/acsomega.2c06240,1,"Magneto-Optical and Muliferroic Properties of Transition-Metal (Fe, Co, or Ni)-Doped ZnO Layers Deposited by ALD",R732985,"R733847, R676135, R733227"
+3352,ZnNixOy,ZnEt2,NiCp2,H2O,O3,10.1021/acsomega.2c06240,2,"Magneto-Optical and Muliferroic Properties of Transition-Metal (Fe, Co, or Ni)-Doped ZnO Layers Deposited by ALD",R732985,"R733339, R676135, R733227"
+3367,MoP,MoCl5,PH3,,,10.3390/applnano4010003,1,"Thin Film Deposition of MoP, a Topological Semimetal",R732988,R733605
+3383,NiCoxOy,Ni(MeCp)2,CoCp2,O2 plasma,,10.1116/6.0002414,1,Control by atomic layer deposition over the chemical composition of nickel cobalt oxide for the oxygen evolution reaction,R732992,"R733847, R733295"
+54,AlN,AlMe3,NH3,,,10.1002/pssa.201127430,1,Structural properties of AlN films deposited by plasma‐enhanced atomic layer deposition at different growth temperatures,R732995,R676164
+2933,AlN,AlMe3,NH3 plasma,,,10.1002/pssa.201127430,2,Structural properties of AlN films deposited by plasma‐enhanced atomic layer deposition at different growth temperatures,R732995,R734143
+2933,AlN,AlMe3,NH3 plasma,,,10.1116/1.3687937,1,Optical properties of AlN thin films grown by plasma enhanced atomic layer deposition,R732998,R734143
+2936,GaN,GaEt3,N2 + H2 plasma,,,10.1116/1.4936230,1,Substrate temperature influence on the properties of GaN thin films grown by hollow-cathode plasma-assisted atomic layer deposition,R733001,R734208
+2936,GaN,GaEt3,N2 + H2 plasma,,,10.1116/1.4953463,1,Substrate impact on the low-temperature growth of GaN thin films by plasma-assisted atomic layer deposition,R733004,R734208
+2935,GaN,GaMe3,N2 + H2 plasma,,,10.1063/1.4884061,1,Low temperature thin film transistors with hollow cathode plasma-assisted atomic layer deposition based GaN channels,R733007,R734208
+3440,Al2O3,AlMe3,H2,,,10.1002/admi.202202166,1,Spatially‐Modulated Silicon Interface Energetics Via Hydrogen Plasma‐Assisted Atomic Layer Deposition of Ultrathin Alumina,R733013,R733357
+221,VOx,VO(OiPr)3,H2O,,,10.1016/j.solmat.2022.111731,1,Interdigitated back-contacted crystalline silicon solar cells fully manufactured with atomic layer deposited selective contacts,R733016,R676135
+1899,TaZrxOy,Ta(OEt)5,ZrCl4,H2O,,10.1063/1.4975928,1,Atomic layer deposition and properties of mixed Ta2O5 and ZrO2 films,R732764,"R733234, R676135"
+29,Al2O3,AlMe3,O2 plasma,,,10.1038/s41598-023-46877-4,1,High-confinement alumina waveguides with sub-dB/cm propagation losses at 450 nm,R733019,R733295
+739,Ir,Ir(acac)3,O2,,,10.1557/JMR.2004.0426,1,Atomic layer deposition of noble metals: Exploration of the low limit of the deposition temperature,R732614,R734067
