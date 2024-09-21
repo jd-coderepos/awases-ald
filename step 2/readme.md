@@ -58,6 +58,9 @@ Using a GPT LLM, the process extracts ALD-process-relevant structured knowledge 
    [`scripts/2-add-material-and-reactants-to-orkg.py`](https://github.com/jd-coderepos/awases-ald-data/blob/main/step%202/scripts/2-add-material-and-reactants-to-orkg.py) - This script reads the expert-curated material and reactants annotations in the [atomiclimits ALD database](https://www.atomiclimits.com/alddatabase/) (e.g., step 1/data/2-filtered-data.csv) and creates unique resources in the ORKG for them. The output of this script are the files [5-orkg-added-reactants.csv](https://github.com/jd-coderepos/awases-ald-data/blob/main/step%202/data/5-orkg-added-reactants.csv) and [5-orkg-added-materials.csv](https://github.com/jd-coderepos/awases-ald-data/blob/main/step%202/data/5-orkg-added-materials.csv).
 
 
+**Note:** For those new to importing data into the ORKG, we recommend starting with our test environments at https://incubating.orkg.org/ or https://sandbox.orkg.org/. Conduct extensive tests in these environments before using the live system at https://orkg.org/ for finalized workflows. For experimentation and troubleshooting, please use our test systems.
+
+
 ## Outcomes and Impact
 
 This section showcases the tangible results and the accessible format of the contributions that have been uploaded to the ORKG, highlighting the real-world applications and benefits of this workflow.
@@ -78,4 +81,4 @@ This section showcases the tangible results and the accessible format of the con
 After the structured data are imported, users can navigate through the ORKG platform to access papers or comparisons, providing a structured overview of research on ALD processes. Specifically the relevant papers can be found in our AWASES project observatory linked [here](https://orkg.org/observatory/AIAware_Pathways_to_Sustainable_Semiconductor_Process_and_Manufacturing_Technologies). This integration supports enhanced discovery and research analytics capabilities, promoting a deeper understanding and further research in ALD technology.
 
 
-**Note:** For those new to importing data into the ORKG, we recommend starting with our test environments at https://incubating.orkg.org/ or https://sandbox.orkg.org/. Conduct extensive tests in these environments before using the live system at https://orkg.org/ for finalized workflows. For experimentation and troubleshooting, please use our test systems.
+
